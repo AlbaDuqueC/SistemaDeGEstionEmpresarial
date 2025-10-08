@@ -23,6 +23,11 @@ namespace _01HelloWorld.Controllers
             return View();
         }
 
+        public string Alba()
+        {
+            return "Hello, Alba!";
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
