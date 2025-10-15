@@ -23,9 +23,14 @@ namespace _01HelloWorld.Controllers
             return View();
         }
 
-        public string Alba()
+        public string Holiwis()
         {
-            return "Hello, Alba!";
+            return "Holiwis";
+        }
+
+        public IActionResult Alba()
+        {
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

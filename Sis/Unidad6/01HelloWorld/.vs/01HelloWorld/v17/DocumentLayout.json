@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\01helloworld\\01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\source\\repos\\albaduquec\\sistemadegestionempresarial\\unidad6\\01helloworld\\01helloworld\\views\\filete\\empanado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\filete\\empanado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\source\\repos\\albaduquec\\sistemadegestionempresarial\\unidad6\\01helloworld\\01helloworld\\controllers\\filetecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\controllers\\filetecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\source\\repos\\albaduquec\\sistemadegestionempresarial\\unidad6\\01helloworld\\01helloworld\\views\\home\\alba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\alba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\source\\repos\\albaduquec\\sistemadegestionempresarial\\unidad6\\01helloworld\\01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\01helloworld\\01helloworld\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\source\\repos\\albaduquec\\sistemadegestionempresarial\\unidad6\\01helloworld\\01helloworld\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\01helloworld\\01helloworld\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\01helloworld\\01helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\alba.duque\\source\\repos\\albaduquec\\sistemadegestionempresarial\\unidad6\\01helloworld\\01helloworld\\01helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55A3424E-1294-4372-B56F-C75D2DE5A57C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\01helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Empanado.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Filete\\Empanado.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Filete\\Empanado.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Filete\\Empanado.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Filete\\Empanado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T12:35:08.15Z"
+              "WhenOpened": "2025-10-15T12:19:23.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\01HelloWorld\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "01HelloWorld\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\01HelloWorld\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "01HelloWorld\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-08T12:33:57.651Z",
-              "EditorCaption": ""
+              "Title": "FileteController.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Controllers\\FileteController.cs",
+              "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\FileteController.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Controllers\\FileteController.cs",
+              "RelativeToolTip": "01HelloWorld\\Controllers\\FileteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:18:02.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alba.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Alba.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Alba.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Alba.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Alba.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T12:14:25.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T12:13:34.109Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\01HelloWorld\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T12:28:26.445Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:27:59.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "01HelloWorld\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T12:26:50.327Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "01HelloWorld.csproj",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\01HelloWorld.csproj",
+              "RelativeDocumentMoniker": "01HelloWorld\\01HelloWorld.csproj",
+              "ToolTip": "C:\\Users\\alba.duque\\source\\repos\\AlbaDuqueC\\SistemaDeGEstionEmpresarial\\Unidad6\\01HelloWorld\\01HelloWorld\\01HelloWorld.csproj",
+              "RelativeToolTip": "01HelloWorld\\01HelloWorld.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T11:26:47.802Z"
             }
           ]
         }
