@@ -1,8 +1,17 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    var Hora = DateTime.Now;
+    var mensaje = "";
+
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    @Html.ActionLink("Ir a Empanado", "Empanado", "Filete")
+
+    <h3>Ejercicio 3</h3>
+
+    <p>Son las: @Hora.Hour:@Hora.Minute</p>
+
 </div>
