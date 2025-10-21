@@ -2,7 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Sis",
-    "\\Sis\\Unidad7"
+    "\\Sis\\Unidad6",
+    "\\Sis\\Unidad7",
+    "\\Sis\\Unidad7\\Ejercicio1",
+    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1",
+    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models",
+    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities"
   ],
+  "SelectedNode": "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities\\Persona.cs",
   "PreviewInSolutionExplorer": false
 }

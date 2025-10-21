@@ -1,0 +1,30 @@
+﻿@model List<Ejercicio1.Models.Entities.Persona>
+
+@{
+    ViewData["Title"] = "Listado de Personas";
+}
+
+<h2>Listado de Personas</h2>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>NOMBRE</th>
+            <th>EDAD</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.id</td>
+                <td>@persona.nombre</td>
+                <td>@persona.edad</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<a href="@Url.Action("Index", "Home")">Volver a inicio</a>

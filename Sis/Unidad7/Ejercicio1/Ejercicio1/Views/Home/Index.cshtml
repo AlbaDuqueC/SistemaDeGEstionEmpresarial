@@ -1,0 +1,18 @@
+﻿@model Ejercicio1.Models.Entities.Persona
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<h2>@ViewData["Saludo"]</h2>
+
+<p>Fecha actual: @ViewBag.Fecha</p>
+
+<h3>Datos personales</h3>
+<ul>
+    <li><strong>Nombre:</strong> @Model.nombre</li>
+    <li><strong>Edad:</strong> @Model.edad</li>
+</ul>
+
+<a href="../Views/Home/listadoPersonas.cshtml")>Ver listado de personas</a>
