@@ -2,6 +2,7 @@ using System.Diagnostics;
 using Ejercicio1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Ejercicio1.Models.Entities;
+using Ejercicio1.Models.DAL;
 
 namespace Ejercicio1.Controllers
 {
@@ -50,19 +51,51 @@ namespace Ejercicio1.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        public IActionResult listadoPersona()
+        public IActionResult Ejercicio2()
         {
-            List<Persona> listaPersonas = new List<Persona>()
-            {
-                new Persona(1, "Alba", 19),
-                new Persona(2, "Juan", 25),
-                new Persona(3, "María", 30),
-                new Persona(4, "Luis", 22),
-                new Persona(5, "Ana", 27)
-            };
+            List<Persona> listaPersonas = listadoPersona.getPersonas()
+           ;
             return View(listaPersonas);
         }
 
+        public IActionResult Ejercicio3()
+        {
+            var personas = listadoPersona.getPersonas();
+            var persona = personas[2]; 
+            return View(persona);
+        }
+
+        public IActionResult Ejercicio4()
+        {
+            var departamentos = listadoDepartamento.GetDepartamentos();
+            return View(departamentos);
+        }
+
+        public IActionResult Ejercicio4EditarPersona()
+        {
+
+            var personas = listadoPersona.getPersonas();
+            var departamentos = listadoDepartamento.GetDepartamentos();
+
+            int posicion = new Random().Next(personas.Count);
+            var personaAleatoria = personas[posicion];
+
+            ViewBag.Departamentos = departamentos;
+
+            return View(personaAleatoria);
+
+        }
+
+        [HttpPost]
+        public IActionResult EditarPersona(Persona personaEditada)
+        {
+            return RedirectToAction("Index");
+        }
+
+        
+
+       
+       
 
     }
 }

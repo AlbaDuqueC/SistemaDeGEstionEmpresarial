@@ -7,8 +7,10 @@
     "\\Sis\\Unidad7\\Ejercicio1",
     "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1",
     "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models",
-    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities"
+    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities",
+    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views",
+    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home"
   ],
-  "SelectedNode": "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities\\Persona.cs",
+  "SelectedNode": "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

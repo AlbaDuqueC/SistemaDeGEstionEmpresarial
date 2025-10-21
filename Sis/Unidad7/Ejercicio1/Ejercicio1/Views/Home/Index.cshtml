@@ -1,5 +1,6 @@
 ﻿@model Ejercicio1.Models.Entities.Persona
 
+
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
@@ -15,4 +16,7 @@
     <li><strong>Edad:</strong> @Model.edad</li>
 </ul>
 
-<a href="../Views/Home/listadoPersonas.cshtml")>Ver listado de personas</a>
+<p>@Html.ActionLink("Ejercicio 2", "Ejercicio2", "Home")</p>
+<p>@Html.ActionLink("Ejercicio 3", "Ejercicio3", "Home")</p>
+<p>@Html.ActionLink("Ejercicio 4", "Ejercicio4", "Home")</p>
+<p>@Html.ActionLink("Ejercicio 4 Editar Persona", "Ejercicio4EditarPersona", "Home")</p>

@@ -1,0 +1,38 @@
+﻿@model Ejercicio1.Models.Entities.Persona
+@{
+    ViewBag.Title = "Editar Persona";
+    var departamentos = ViewBag.Departamentos as List<Ejercicio1.Models.Entities.Departamento>;
+}
+
+<h2>Editar Persona</h2>
+
+<form asp-action="EditarPersona" method="post">
+
+    <div>
+        <label>Id:</label>
+        @Html.TextBoxFor(model => model.id, new { @class = "form-control", @readonly = "readonly" })
+    </div>
+
+    <div>
+        <label>Nombre:</label>
+        @Html.TextBoxFor(model => model.nombre, new { @class = "form-control" })
+    </div>
+
+    <div>
+        <label>Departamento:</label>
+        <select name="departamento.idDep" class="form-control">
+            <option value="">Seleccione un departamento</option>
+            @foreach (var dep in @ViewBag.departamento)
+            {
+                <option value="@dep.idDep" )>
+                    @dep.nombreDep
+                </option>
+            }
+        </select>
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+
+<br />

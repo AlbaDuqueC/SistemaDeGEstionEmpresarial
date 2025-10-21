@@ -6,9 +6,10 @@
         private int _id;
         private string _nombre;
         private int _edad;
+        private int _departamentoId;
         #endregion
         #region geters y setters
-        
+
         public int id {             
             get { return _id; }
             set { _id = value; }
@@ -24,16 +25,28 @@
             set { _edad = value; }
         }
 
-
+        public int departamentoId {
+            get { return _departamentoId; }
+            set { _departamentoId = value; }
+        }
 
         #endregion
 
         #region constructores
+        public Persona(int id, string nombre, int edad, int idDed)
+        {
+            this._id = id;
+            this._nombre = nombre;
+            this._edad = edad;
+            this._departamentoId = idDed;
+        }
+
         public Persona(int id, string nombre, int edad)
         {
             this._id = id;
             this._nombre = nombre;
             this._edad = edad;
+ 
         }
 
         public Persona()
@@ -41,6 +54,7 @@
             this._id = 0;
             this._nombre = "";
             this._edad = 0;
+            this._departamentoId = 0;
         }
 
 
