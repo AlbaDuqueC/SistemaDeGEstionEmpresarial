@@ -9,7 +9,7 @@
         #endregion
 
         #region geters y setters
-        public int id
+        public int idDep
         {
             get { return _idDep; }
             set { _idDep = value; }

@@ -3,6 +3,7 @@ using Ejercicio1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Ejercicio1.Models.Entities;
 using Ejercicio1.Models.DAL;
+using Ejercicio1.Models.ViewModel;
 
 namespace Ejercicio1.Controllers
 {
@@ -65,24 +66,12 @@ namespace Ejercicio1.Controllers
             return View(persona);
         }
 
-        public IActionResult Ejercicio4()
-        {
-            var departamentos = listadoDepartamento.GetDepartamentos();
-            return View(departamentos);
-        }
-
         public IActionResult Ejercicio4EditarPersona()
         {
 
-            var personas = listadoPersona.getPersonas();
-            var departamentos = listadoDepartamento.GetDepartamentos();
+            Ejercicio4EditarPersonaVM vm= new Ejercicio4EditarPersonaVM();
 
-            int posicion = new Random().Next(personas.Count);
-            var personaAleatoria = personas[posicion];
-
-            ViewBag.Departamentos = departamentos;
-
-            return View(personaAleatoria);
+            return View(vm);
 
         }
 

@@ -20,5 +20,18 @@ namespace Ejercicio1.Models.DAL
 
             };
         }
+
+        /// <summary>
+        /// Retrieves a <see cref="Persona"/> object from the specified position in the collection.
+        /// pre: Posicion debe de ser mayor a 0 y menor a 7
+        /// </summary>
+        /// <param name="posicion">The zero-based index of the <see cref="Persona"/> to retrieve. Must be within the bounds of the collection.</param>
+        /// <returns>The <see cref="Persona"/> object at the specified position in the collection.</returns>
+        public static Persona GetPersona(int posicion)
+        {
+
+            return getPersonas()[posicion];
+
+        }
     }
 }

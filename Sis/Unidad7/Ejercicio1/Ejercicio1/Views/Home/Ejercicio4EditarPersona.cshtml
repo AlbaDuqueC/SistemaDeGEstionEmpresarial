@@ -1,38 +1,33 @@
-﻿@model Ejercicio1.Models.Entities.Persona
-@{
-    ViewBag.Title = "Editar Persona";
-    var departamentos = ViewBag.Departamentos as List<Ejercicio1.Models.Entities.Departamento>;
-}
+﻿@model Ejercicio1.Models.ViewModel.Ejercicio4EditarPersonaVM
+<div>
 
-<h2>Editar Persona</h2>
+    @Model.persona.nombre
+    <form>
 
-<form asp-action="EditarPersona" method="post">
-
-    <div>
-        <label>Id:</label>
-        @Html.TextBoxFor(model => model.id, new { @class = "form-control", @readonly = "readonly" })
-    </div>
-
-    <div>
         <label>Nombre:</label>
-        @Html.TextBoxFor(model => model.nombre, new { @class = "form-control" })
-    </div>
-
-    <div>
+        <input type="text"/>
+        <br />
+        <label>Edad:</label>
+        <input type="number"/>
+        <br />
         <label>Departamento:</label>
-        <select name="departamento.idDep" class="form-control">
-            <option value="">Seleccione un departamento</option>
-            @foreach (var dep in @ViewBag.departamento)
+        
+
+
+    <select>
+        @foreach (var departamento in Model.departamentos)
+        {
+            if (departamento.idDep == Model.persona.departamentoId)
             {
-                <option value="@dep.idDep" )>
-                    @dep.nombreDep
-                </option>
+                <option selected="selected" value="@departamento.idDep">@departamento.nombre</option>
             }
-        </select>
-    </div>
+            else
+            {
+                <option value="@departamento.idDep">@departamento.nombre</option>
+            }
+        }
+    </select>
 
-    <br />
-    <button type="submit" class="btn btn-primary">Guardar</button>
-</form>
+    </form>
 
-<br />
+</div>

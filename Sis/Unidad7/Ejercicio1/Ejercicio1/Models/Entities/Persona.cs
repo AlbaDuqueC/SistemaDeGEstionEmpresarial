@@ -46,7 +46,8 @@
             this._id = id;
             this._nombre = nombre;
             this._edad = edad;
- 
+            this._departamentoId = 0;
+
         }
 
         public Persona()
