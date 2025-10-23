@@ -59,8 +59,7 @@
               "ViewState": "AgIAADoAAAAAAAAAAAAhwEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:04:25.162Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Ejercicio1\\Views\\Home\\Ejercicio2.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T12:34:57.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T12:34:57.895Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Ejercicio1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T11:54:14.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:54:14.789Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Ejercicio1\\Views\\Home\\Ejercicio4EditarPersona.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T12:18:26.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T12:18:26.63Z"
             },
             {
               "$type": "Document",
@@ -124,8 +120,7 @@
               "RelativeToolTip": "Ejercicio1\\Models\\DAL\\listadoPersona.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:44:14.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:44:14.683Z"
             },
             {
               "$type": "Document",
@@ -137,8 +132,7 @@
               "RelativeToolTip": "Ejercicio1\\Models\\DAL\\listadoDepartamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:43:58.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:43:58.121Z"
             },
             {
               "$type": "Document",
@@ -150,8 +144,7 @@
               "RelativeToolTip": "Ejercicio1\\Models\\Entities\\Departamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:43:27.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:43:27.425Z"
             },
             {
               "$type": "Document",
@@ -163,8 +156,7 @@
               "RelativeToolTip": "Ejercicio1\\Models\\Entities\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T12:07:44.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T12:07:44.76Z"
             }
           ]
         }

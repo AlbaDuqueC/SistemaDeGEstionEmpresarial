@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\views\\home\\ejercicio4editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\ejercicio4editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\models\\viewmodel\\ejercicio4editarpersonavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\viewmodel\\ejercicio4editarpersonavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\models\\dal\\listadopersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +27,16 @@
       "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\dal\\listadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\views\\home\\ejercicio2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\ejercicio2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\models\\viewmodel\\ejercicio4editarpersonavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\viewmodel\\ejercicio4editarpersonavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad7\\ejercicio1\\ejercicio1\\views\\home\\ejercicio4editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{661CA537-66C1-4982-941B-63D0325682C3}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\ejercicio4editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Ejercicio1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAhwEQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAhwEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:04:25.162Z",
               "IsPinned": true,
@@ -60,91 +64,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "Ejercicio2.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home\\Ejercicio2.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\Ejercicio2.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home\\Ejercicio2.cshtml",
+              "RelativeToolTip": "Ejercicio1\\Views\\Home\\Ejercicio2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T12:34:57.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Ejercicio1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-22T11:54:14.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Ejercicio4EditarPersona.cshtml",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home\\Ejercicio4EditarPersona.cshtml",
               "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\Ejercicio4EditarPersona.cshtml",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home\\Ejercicio4EditarPersona.cshtml",
               "RelativeToolTip": "Ejercicio1\\Views\\Home\\Ejercicio4EditarPersona.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-22T12:18:26.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Ejercicio4EditarPersonaVM.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\ViewModel\\Ejercicio4EditarPersonaVM.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Models\\ViewModel\\Ejercicio4EditarPersonaVM.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\ViewModel\\Ejercicio4EditarPersonaVM.cs",
               "RelativeToolTip": "Ejercicio1\\Models\\ViewModel\\Ejercicio4EditarPersonaVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T11:52:43.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "listadoPersona.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\DAL\\listadoPersona.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Models\\DAL\\listadoPersona.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\DAL\\listadoPersona.cs",
               "RelativeToolTip": "Ejercicio1\\Models\\DAL\\listadoPersona.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T11:44:14.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "listadoDepartamento.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\DAL\\listadoDepartamento.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Models\\DAL\\listadoDepartamento.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\DAL\\listadoDepartamento.cs",
               "RelativeToolTip": "Ejercicio1\\Models\\DAL\\listadoDepartamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T11:43:58.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities\\Departamento.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Models\\Entities\\Departamento.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities\\Departamento.cs",
               "RelativeToolTip": "Ejercicio1\\Models\\Entities\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T11:43:27.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Models\\Entities\\Persona.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities\\Persona.cs",
               "RelativeToolTip": "Ejercicio1\\Models\\Entities\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:07:44.76Z",
               "EditorCaption": ""
