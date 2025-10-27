@@ -1,20 +1,19 @@
 ﻿@model Ejercicio1.Models.ViewModel.Ejercicio4EditarPersonaVM
 <div>
 
-    @Model.persona.nombre
     <form>
 
-        <label>Nombre:</label>
-        <input type="text"/>
+        @Html.Label("Nombre")
+        @Html.TextBox("Nombre", Model.persona.nombre)
         <br />
-        <label>Edad:</label>
-        <input type="number"/>
+        @Html.Label("Edad")
+        @Html.TextBox("Edad", Model.persona.edad)
         <br />
-        <label>Departamento:</label>
-        
+        @Html.Label("Departamento")
 
 
-    <select>
+
+        <select >
         @foreach (var departamento in Model.departamentos)
         {
             if (departamento.idDep == Model.persona.departamentoId)
@@ -27,6 +26,8 @@
             }
         }
     </select>
+
+    <button>Guardar</button>
 
     </form>
 

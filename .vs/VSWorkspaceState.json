@@ -4,13 +4,11 @@
     "\\Sis",
     "\\Sis\\Unidad6",
     "\\Sis\\Unidad7",
-    "\\Sis\\Unidad7\\Ejercicio1",
-    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1",
-    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models",
     "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Models\\Entities",
     "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views",
-    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home"
+    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home",
+    "\\Sis\\Unidad7\\Ejercicio2"
   ],
-  "SelectedNode": "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\Sis\\Unidad7\\Ejercicio2",
   "PreviewInSolutionExplorer": false
 }
