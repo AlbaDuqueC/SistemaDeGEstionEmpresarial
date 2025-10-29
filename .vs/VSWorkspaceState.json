@@ -4,11 +4,11 @@
     "\\Sis",
     "\\Sis\\Unidad6",
     "\\Sis\\Unidad6\\ListadoPersonasClean",
+    "\\Sis\\Unidad6\\ListadoPersonasClean\\Domain",
+    "\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Entities",
     "\\Sis\\Unidad7",
-    "\\Sis\\Unidad7\\Ejercicio1",
-    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views",
-    "\\Sis\\Unidad7\\Ejercicio1\\Ejercicio1\\Views\\Home"
+    "\\Sis\\Unidad7\\Ejercicio1"
   ],
-  "SelectedNode": "\\Sis\\Unidad6\\ListadoPersonasClean\\ListadoPersonasClean.sln",
+  "SelectedNode": "\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Entities\\Persona.cs",
   "PreviewInSolutionExplorer": false
 }

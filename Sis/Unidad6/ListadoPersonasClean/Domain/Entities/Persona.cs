@@ -6,40 +6,83 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    internal class Persona
+    public class Persona
     {
-        // Atributos privados
+        #region ATRIBUTOS PRIVADOS
+
         private int _id;
         private string _nombre;
-        private string _apellidos;
+        private string _apellido;
+        private int _edad;
 
-        // Constructor
-        public Persona(int id, string nombre, string apellidos)
+        #endregion
+
+        /// <summary>
+        /// Constructor de la clase persona con todos sus atributos
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="edad"></param>
+        public Persona(int id, string nombre, string apellido, int edad)
         {
-            _id = id;
-            _nombre = nombre;
-            _apellidos = apellidos;
+            this._id = id;
+            this._nombre = nombre;
+            this._apellido = apellido;
+            this._edad = edad;
         }
 
-        // Propiedad Id (solo lectura)
-        public int Id
+        /// <summary>
+        /// Constructor de la clase persona vacío
+        /// </summary>
+        public Persona() { }
+
+        #region GETTERS Y SETTERS
+
+        public int ID
         {
-            get { return _id; }
+            get
+            {
+                return _id;
+            }
         }
 
-        // Propiedad Nombre (lectura/escritura)
         public string Nombre
         {
-            get { return _nombre; }
-            set { _nombre = value; }
+            get
+            {
+                return _nombre;
+            }
+            set
+            {
+                _nombre = value;
+            }
         }
 
-        // Propiedad Apellidos (lectura/escritura)
-        public string Apellidos
+        public string Apellido
         {
-            get { return _apellidos; }
-            set { _apellidos = value; }
+            get
+            {
+                return _apellido;
+            }
+            set
+            {
+                _apellido = value;
+            }
         }
-    }
 
+        public int Edad
+        {
+            get
+            {
+                return _edad;
+            }
+            set
+            {
+                _edad = value;
+            }
+        }
+
+        #endregion
+    }
 }

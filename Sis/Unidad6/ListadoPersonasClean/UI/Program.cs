@@ -1,7 +1,12 @@
+using Domain.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IPersonaRepository, PersonaRepository>();
+builder.Services.AddScoped<IPersonaRepositoryUseCase, DefaultGetListadoUseCase>();
 
 var app = builder.Build();
 
