@@ -3,3 +3,10 @@ C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPerso
 C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
 C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad6\ListadoPersonasClean\Domain\obj\Debug\net8.0\ref\Domain.dll

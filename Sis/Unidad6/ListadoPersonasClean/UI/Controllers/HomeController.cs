@@ -15,9 +15,9 @@ namespace UI.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index([FromServices] IPersonaRepositoryUseCase personaRepositoryUseCase)
+        public IActionResult Index([FromServices] IPersonaRepositoryUseCase PersonaRepositoryUseCase)
         {
-            return View(personaRepositoryUseCase.getListaPersonas);
+            return View(PersonaRepositoryUseCase.getListaPersonas());
         }
 
         public IActionResult Privacy()

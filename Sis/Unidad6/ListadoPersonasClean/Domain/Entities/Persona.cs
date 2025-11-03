@@ -35,7 +35,14 @@ namespace Domain.Entities
         /// <summary>
         /// Constructor de la clase persona vacío
         /// </summary>
-        public Persona() { }
+        public Persona() { 
+            
+            this._id = 0;
+            this._nombre = string.Empty;
+            this._apellido = string.Empty;
+            this._edad = 0;
+
+        }
 
         #region GETTERS Y SETTERS
 

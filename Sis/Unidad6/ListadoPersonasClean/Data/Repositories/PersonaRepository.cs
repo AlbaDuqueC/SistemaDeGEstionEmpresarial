@@ -10,7 +10,7 @@ namespace Data.Repositories
         /// a una API o BBDD.
         /// </summary>
         /// <returns>Una lista con personas</returns>
-        public List<Persona> ListaPersonas()
+        private List<Persona> ListaPersonas()
         {
 
             return [
@@ -32,14 +32,11 @@ namespace Data.Repositories
         /// Método que sirve para devolver un listado de personas
         /// </summary>
         /// <returns></returns>
-        public List<Persona> getListaPersona()
+        public List<Persona> getListaPersonas()
         {
             return ListaPersonas();
         }
 
-        public List<Persona> getListaPersonas()
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
