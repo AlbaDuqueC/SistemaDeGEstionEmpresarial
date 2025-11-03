@@ -38,8 +38,7 @@
               "RelativeToolTip": "Formulario\\Views\\Home\\Saludo.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T13:25:59.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T13:25:59.392Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Formulario\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Formulario\\Formulario\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Formulario\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T13:11:54.507Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Formulario\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T13:09:05.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T13:09:05.377Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Formulario\\Models\\Persona.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T13:07:25.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T13:07:25.842Z"
             }
           ]
         }

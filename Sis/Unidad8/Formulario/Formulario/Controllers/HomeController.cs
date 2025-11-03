@@ -27,6 +27,7 @@ namespace Formulario.Controllers
 
         public IActionResult Saludo(String nombre)
         {
+            ViewBag.Nombre = nombre;
             return View();
         }
 
