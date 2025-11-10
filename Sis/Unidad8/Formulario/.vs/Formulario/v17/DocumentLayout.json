@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Formulario\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71B4AA34-488B-46F5-BD9A-8B995E0821A4}|Formulario\\Formulario.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\formulario\\formulario\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B4AA34-488B-46F5-BD9A-8B995E0821A4}|Formulario\\Formulario.csproj|solutionrelative:formulario\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71B4AA34-488B-46F5-BD9A-8B995E0821A4}|Formulario\\Formulario.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\formulario\\formulario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71B4AA34-488B-46F5-BD9A-8B995E0821A4}|Formulario\\Formulario.csproj|solutionrelative:formulario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{71B4AA34-488B-46F5-BD9A-8B995E0821A4}|Formulario\\Formulario.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\formulario\\formulario\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71B4AA34-488B-46F5-BD9A-8B995E0821A4}|Formulario\\Formulario.csproj|solutionrelative:formulario\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71B4AA34-488B-46F5-BD9A-8B995E0821A4}|Formulario\\Formulario.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\formulario\\formulario\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71B4AA34-488B-46F5-BD9A-8B995E0821A4}|Formulario\\Formulario.csproj|solutionrelative:formulario\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Saludo.cshtml",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Formulario\\Formulario\\Views\\Home\\Saludo.cshtml",
               "RelativeDocumentMoniker": "Formulario\\Views\\Home\\Saludo.cshtml",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Formulario\\Formulario\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Formulario\\Controllers\\HomeController.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Formulario\\Formulario\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Formulario\\Views\\Home\\Index.cshtml",
@@ -67,15 +67,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Formulario\\Formulario\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "Formulario\\Models\\Persona.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Formulario\\Formulario\\Models\\Persona.cs",
               "RelativeToolTip": "Formulario\\Models\\Persona.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T13:07:25.842Z"
+              "WhenOpened": "2025-11-03T13:07:25.842Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{749EF37B-DA9D-4901-BF37-2DAFD69400A5}|Container\\Container.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\container\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749EF37B-DA9D-4901-BF37-2DAFD69400A5}|Container\\Container.csproj|solutionrelative:container\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F32F172-E972-474F-AD40-13545B310F30}|Data\\Data.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F32F172-E972-474F-AD40-13545B310F30}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\domain\\entities\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\domain\\usecase\\listadomisionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|solutionrelative:domain\\usecase\\listadomisionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\domain\\interfaces\\iusecaselistadomisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusecaselistadomisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\domain\\interfaces-repository\\irepositorymisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces-repository\\irepositorymisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F32F172-E972-474F-AD40-13545B310F30}|Data\\Data.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\data\\repositories\\repositoriomisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F32F172-E972-474F-AD40-13545B310F30}|Data\\Data.csproj|solutionrelative:data\\repositories\\repositoriomisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16657A-3A00-4462-AAA5-7A265EBCC620}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F32F172-E972-474F-AD40-13545B310F30}|Data\\Data.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\mandalorianmision\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F32F172-E972-474F-AD40-13545B310F30}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListadoMisionesUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\UseCase\\ListadoMisionesUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCase\\ListadoMisionesUseCase.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\UseCase\\ListadoMisionesUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCase\\ListadoMisionesUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:43:57.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUseCaseListadoMisiones.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Interfaces\\IUseCaseListadoMisiones.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUseCaseListadoMisiones.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Interfaces\\IUseCaseListadoMisiones.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUseCaseListadoMisiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:43:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mision.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Entities\\Mision.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mision.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Entities\\Mision.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mision.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv0kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:42:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Container\\Container.cs",
+              "RelativeDocumentMoniker": "Container\\Container.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Container\\Container.cs",
+              "RelativeToolTip": "Container\\Container.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:34:11.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T12:39:31.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositoryMisiones.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Interfaces-Repository\\IRepositoryMisiones.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces-Repository\\IRepositoryMisiones.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Interfaces-Repository\\IRepositoryMisiones.cs",
+              "RelativeToolTip": "Domain\\Interfaces-Repository\\IRepositoryMisiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:42:48.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositorioMisiones.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Data\\Repositories\\RepositorioMisiones.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\RepositorioMisiones.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Data\\Repositories\\RepositorioMisiones.cs",
+              "RelativeToolTip": "Data\\Repositories\\RepositorioMisiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:41:57.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T12:37:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:33:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\MandalorianMision\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:33:18.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

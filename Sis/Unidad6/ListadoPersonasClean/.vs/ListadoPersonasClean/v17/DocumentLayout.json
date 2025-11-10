@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E629F3B-ECE5-4961-96CD-C0771694E245}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\listadopersonasclean\\compositionroot\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E629F3B-ECE5-4961-96CD-C0771694E245}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B69F8E9E-ACBC-42CA-871D-8551B503AA70}|UI\\UI.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\listadopersonasclean\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B69F8E9E-ACBC-42CA-871D-8551B503AA70}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B69F8E9E-ACBC-42CA-871D-8551B503AA70}|UI\\UI.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\listadopersonasclean\\ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B69F8E9E-ACBC-42CA-871D-8551B503AA70}|UI\\UI.csproj|solutionrelative:ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E629F3B-ECE5-4961-96CD-C0771694E245}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\listadopersonasclean\\compositionroot\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E629F3B-ECE5-4961-96CD-C0771694E245}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0683C023-4ECD-4AA9-BDA6-CA0A1B919472}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad6\\listadopersonasclean\\domain\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,69 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T12:52:10.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "UI\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "UI\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T12:37:01.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "UI\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "UI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T12:36:59.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonaRepositoryEmpty.cs",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Data\\Repositories\\PersonaRepositoryEmpty.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepositoryEmpty.cs",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Data\\Repositories\\PersonaRepositoryEmpty.cs",
-              "RelativeToolTip": "Data\\Repositories\\PersonaRepositoryEmpty.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T12:32:45.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Container.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\CompositionRoot\\Container.cs",
               "RelativeDocumentMoniker": "CompositionRoot\\Container.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\CompositionRoot\\Container.cs",
               "RelativeToolTip": "CompositionRoot\\Container.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T12:48:47.091Z",
               "EditorCaption": ""
@@ -159,51 +107,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\IPersonaRepositoryUseCase.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T12:23:01.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T12:23:01.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPersonaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Repositories\\IPersonaRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\IPersonaRepository.cs",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Repositories\\IPersonaRepository.cs",
-              "RelativeToolTip": "Domain\\Repositories\\IPersonaRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T12:33:37.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T12:24:04.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Entities\\Persona.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Entities\\Persona.cs",
-              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAWwCYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T21:38:45.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Program.cs",
               "RelativeDocumentMoniker": "UI\\Program.cs",
@@ -216,7 +124,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonaRepositoryEmpty.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Data\\Repositories\\PersonaRepositoryEmpty.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepositoryEmpty.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Data\\Repositories\\PersonaRepositoryEmpty.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonaRepositoryEmpty.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:32:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Repositories\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IPersonaRepository.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Repositories\\IPersonaRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IPersonaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:33:37.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T12:36:59.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T12:37:01.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T12:52:10.859Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:24:04.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:38:45.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PersonaRepository.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad6\\ListadoPersonasClean\\Data\\Repositories\\PersonaRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepository.cs",
@@ -224,8 +216,7 @@
               "RelativeToolTip": "Data\\Repositories\\PersonaRepository.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T21:46:40.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T21:46:40.755Z"
             },
             {
               "$type": "Document",
@@ -237,8 +228,7 @@
               "RelativeToolTip": "Domain\\UseCases\\PersonaRepositoryUseCase .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T12:21:31.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T12:21:31.456Z"
             },
             {
               "$type": "Document",
@@ -250,8 +240,7 @@
               "RelativeToolTip": "CompositionRoot\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T12:48:12.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T12:48:12.113Z"
             },
             {
               "$type": "Document",
@@ -263,8 +252,7 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-27T13:25:50.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T13:25:50.838Z"
             },
             {
               "$type": "Document",
@@ -276,8 +264,7 @@
               "RelativeToolTip": "Data\\Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-27T13:21:54.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T13:21:54.882Z"
             },
             {
               "$type": "Document",
@@ -289,8 +276,7 @@
               "RelativeToolTip": "UI\\UI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-27T13:21:31.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T13:21:31.139Z"
             },
             {
               "$type": "Document",
@@ -302,8 +288,7 @@
               "RelativeToolTip": "Data\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:19:49.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T13:19:49.598Z"
             },
             {
               "$type": "Document",
@@ -315,8 +300,7 @@
               "RelativeToolTip": "Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:19:19.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T13:19:19.086Z"
             }
           ]
         }
