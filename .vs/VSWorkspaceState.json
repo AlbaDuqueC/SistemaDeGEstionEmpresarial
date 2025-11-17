@@ -2,13 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Sis",
-    "\\Sis\\Unidad6",
-    "\\Sis\\Unidad6\\ListadoPersonasClean",
-    "\\Sis\\Unidad6\\ListadoPersonasClean\\Domain",
-    "\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Entities",
-    "\\Sis\\Unidad7",
-    "\\Sis\\Unidad7\\Ejercicio1"
+    "\\Sis\\Andres",
+    "\\Sis\\Andres\\ListadoPersonasClean-master"
   ],
-  "SelectedNode": "\\Sis\\Unidad6\\ListadoPersonasClean\\Domain\\Entities\\Persona.cs",
+  "SelectedNode": "\\Sis\\Andres\\ListadoPersonasClean-master\\ListadoPersonasClean.sln",
   "PreviewInSolutionExplorer": false
 }
