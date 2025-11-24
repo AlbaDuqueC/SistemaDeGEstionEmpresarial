@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LCCjGHdbICg=",
+  "dgSpecHash": "h2uibUBWzhY=",
   "success": true,
   "projectFilePath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alba.duque\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+    "C:\\Users\\alba.duque\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\alba.duque\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\alba.duque\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512"
   ],
   "logs": []
 }

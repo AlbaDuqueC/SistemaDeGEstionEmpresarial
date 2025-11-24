@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data.DataBase
 {
-    internal class Class1
+    internal class BDConection
     {
 
         public static String getConnectionString()
