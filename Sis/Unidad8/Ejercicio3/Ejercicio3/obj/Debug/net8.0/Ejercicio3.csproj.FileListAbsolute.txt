@@ -1,0 +1,10 @@
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.RazorAssemblyInfo.cache
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.RazorAssemblyInfo.cs
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.sourcelink.json

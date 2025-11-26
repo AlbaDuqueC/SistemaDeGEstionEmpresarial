@@ -14,6 +14,10 @@ namespace Domain.Entities
         private string _nombre;
         private string _apellido;
         private int _edad;
+        private DateTime _fechaNacimiento;+
+        private string _direccion;
+        private string _telefono;
+
 
         #endregion
 
@@ -24,12 +28,18 @@ namespace Domain.Entities
         /// <param name="nombre"></param>
         /// <param name="apellido"></param>
         /// <param name="edad"></param>
-        public Persona(int id, string nombre, string apellido, int edad)
+        /// <param name="fechaNacimiento"></param>
+        /// <param name="_direccion"></param>
+        /// <param name="_telefono"></param>
+        public Persona(int id, string nombre, string apellido, int edad, DateTime fechaNacimiento, string _direccion, string _telefono)
         {
             this._id = id;
             this._nombre = nombre;
             this._apellido = apellido;
             this._edad = edad;
+            this._fechaNacimiento = fechaNacimiento;
+            this._direccion = _direccion;
+            this._telefono = _telefono;
         }
 
         /// <summary>
@@ -41,6 +51,9 @@ namespace Domain.Entities
             this._nombre = string.Empty;
             this._apellido = string.Empty;
             this._edad = 0;
+            this._fechaNacimiento = DateTime.MinValue;
+            this._direccion = string.Empty;
+            this._telefono = string.Empty;
 
         }
 
@@ -87,6 +100,42 @@ namespace Domain.Entities
             set
             {
                 _edad = value;
+            }
+        }
+
+        public DateTime FechaNacimiento
+        {
+            get
+            {
+                return _fechaNacimiento;
+            }
+            set
+            {
+                _fechaNacimiento = value;
+            }
+        }
+
+        public string Direccion
+        {
+            get
+            {
+                return _direccion;
+            }
+            set
+            {
+                _direccion = value;
+            }
+        }
+
+        public string Telefono
+        {
+            get
+            {
+                return _telefono;
+            }
+            set
+            {
+                _telefono = value;
             }
         }
 

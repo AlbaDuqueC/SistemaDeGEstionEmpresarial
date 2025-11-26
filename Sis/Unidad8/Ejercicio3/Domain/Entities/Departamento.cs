@@ -23,8 +23,31 @@ namespace Domain.Entities
         {
             this._id = 0;
             this._nombre = string.Empty;
-        }   
+        }
 
+        #region GETTERS Y SETTERS
+
+        public int ID
+        {
+            get
+            {
+                return _id;
+            }
+        }
+
+        public string Nombre
+        {
+            get
+            {
+                return _nombre;
+            }
+            set
+            { 
+                _nombre = value;
+            }
+        }
+
+        #endregion
 
     }
 }
