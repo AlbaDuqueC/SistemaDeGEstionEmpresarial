@@ -2,9 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Sis",
-    "\\Sis\\Andres",
-    "\\Sis\\Andres\\ListadoPersonasClean-master"
+    "\\Sis\\Andres\\ListadoPersonasClean-master",
+    "\\Sis\\Unidad8",
+    "\\Sis\\Unidad8\\Ejercicio3",
+    "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3",
+    "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views",
+    "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\departamentos"
   ],
-  "SelectedNode": "\\Sis\\Andres\\ListadoPersonasClean-master\\ListadoPersonasClean.sln",
+  "SelectedNode": "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\departamentos\\Mostrar.cshtml",
   "PreviewInSolutionExplorer": false
 }

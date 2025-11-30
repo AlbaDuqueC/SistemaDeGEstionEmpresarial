@@ -1,83 +1,108 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Domain.dto;
+using Domain.Entities;
+using Domain.Interfaces.Repositories;
+using Domain.Interfaces.UseCase;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ejercicio3.Controllers
 {
     public class PersonaController : Controller
     {
-        // GET: PersonaController
-        public ActionResult Index()
+        private readonly IPersonaRepositoryUseCase _useCase;
+        private readonly IPersonaRepository _repoPersonas;
+        private readonly IDepartamentoRepository _repoDepartamentos;
+
+        public PersonaController(
+            IPersonaRepositoryUseCase useCase,
+            IPersonaRepository repoPersonas,
+            IDepartamentoRepository repoDepartamentos)
         {
-            return View();
+            _useCase = useCase;
+            _repoPersonas = repoPersonas;
+            _repoDepartamentos = repoDepartamentos;
         }
 
-        // GET: PersonaController/Details/5
-        public ActionResult Details(int id)
+        // GET: Personas
+        public IActionResult Mostrar()
         {
-            return View();
+            var lista = _useCase.getListaPersonasConNombreDepartameto();
+            return View(lista);
         }
 
-        // GET: PersonaController/Create
-        public ActionResult Create()
+        // GET: Personas/Details/5
+        public IActionResult Details(int id)
         {
-            return View();
+            var persona = _repoPersonas.getPersonaPorId(id);
+            var dto = _useCase.getPersonaConNombreDepartamento(id);
+
+            return View(dto);
         }
 
-        // POST: PersonaController/Create
+        // GET: Personas/Create
+        public IActionResult Create()
+        {
+            var persona = new Persona();
+            var dto = new PersonaConListadoDepartamento(persona, _repoDepartamentos);
+
+            return View(dto);
+        }
+
+        // POST: Personas/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public IActionResult Create(Persona personaNueva)
         {
-            try
+            if (!ModelState.IsValid)
             {
-                return RedirectToAction(nameof(Index));
+                var dto = new PersonaConListadoDepartamento(personaNueva, _repoDepartamentos);
+                return View(dto);
             }
-            catch
-            {
-                return View();
-            }
+
+            _useCase.crearPersona(personaNueva);
+            return RedirectToAction(nameof(Mostrar));
         }
 
-        // GET: PersonaController/Edit/5
-        public ActionResult Edit(int id)
+        // GET: Personas/Edit/5
+        public IActionResult Edit(int id)
         {
-            return View();
+            var persona = _repoPersonas.getPersonaPorId(id);
+            var dto = new PersonaConListadoDepartamento(persona, _repoDepartamentos);
+
+            return View(dto);
         }
 
-        // POST: PersonaController/Edit/5
+        // POST: Personas/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public IActionResult Edit(int id, Persona personaActualizada)
         {
-            try
+            if (!ModelState.IsValid)
             {
-                return RedirectToAction(nameof(Index));
+                var dto = new PersonaConListadoDepartamento(personaActualizada, _repoDepartamentos);
+                return View(dto);
             }
-            catch
-            {
-                return View();
-            }
+
+            _useCase.actualizarPersona(id, personaActualizada);
+            return RedirectToAction(nameof(Mostrar));
         }
 
-        // GET: PersonaController/Delete/5
-        public ActionResult Delete(int id)
+        // GET: Personas/Delete/5
+        public IActionResult Delete(int id)
         {
-            return View();
+            var persona = _repoPersonas.getPersonaPorId(id);
+            var dto = _useCase.getPersonaConNombreDepartamento(id);
+
+            return View(dto);
         }
 
-        // POST: PersonaController/Delete/5
+        // POST: Personas/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        [ActionName("Delete")]
+        public IActionResult DeletePost(int id)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            _useCase.eliminarPersona(id);
+            return RedirectToAction(nameof(Mostrar));
         }
     }
 }

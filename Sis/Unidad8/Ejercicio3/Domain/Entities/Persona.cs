@@ -12,11 +12,12 @@ namespace Domain.Entities
 
         private int _id;
         private string _nombre;
-        private string _apellido;
+        private string _apellidos;
         private int _edad;
-        private DateTime _fechaNacimiento;+
+        private DateTime _fechaNacimiento;
         private string _direccion;
         private string _telefono;
+        private int _idDepartamento;
 
 
         #endregion
@@ -31,15 +32,17 @@ namespace Domain.Entities
         /// <param name="fechaNacimiento"></param>
         /// <param name="_direccion"></param>
         /// <param name="_telefono"></param>
-        public Persona(int id, string nombre, string apellido, int edad, DateTime fechaNacimiento, string _direccion, string _telefono)
+        /// <param name="idDepartamento"></param>
+        public Persona(int id, string nombre, string apellido, int edad, DateTime fechaNacimiento, string _direccion, string _telefono, int idDepartamento)
         {
             this._id = id;
             this._nombre = nombre;
-            this._apellido = apellido;
+            this._apellidos = apellido;
             this._edad = edad;
             this._fechaNacimiento = fechaNacimiento;
             this._direccion = _direccion;
             this._telefono = _telefono;
+            _idDepartamento = idDepartamento;
         }
 
         /// <summary>
@@ -49,11 +52,12 @@ namespace Domain.Entities
             
             this._id = 0;
             this._nombre = string.Empty;
-            this._apellido = string.Empty;
+            this._apellidos = string.Empty;
             this._edad = 0;
             this._fechaNacimiento = DateTime.MinValue;
             this._direccion = string.Empty;
             this._telefono = string.Empty;
+            this._idDepartamento = 0;
 
         }
 
@@ -79,15 +83,15 @@ namespace Domain.Entities
             }
         }
 
-        public string Apellido
+        public string Apellidos
         {
             get
             {
-                return _apellido;
+                return _apellidos;
             }
             set
             {
-                _apellido = value;
+                _apellidos = value;
             }
         }
 
@@ -138,6 +142,20 @@ namespace Domain.Entities
                 _telefono = value;
             }
         }
+
+        public int IdDepartamento
+        {
+            get
+            {
+                return _idDepartamento;
+            }
+            set
+            {
+                _idDepartamento = value;
+            }
+        }
+
+        
 
         #endregion
     }

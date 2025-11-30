@@ -1,83 +1,95 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Domain.Entities;
+using Domain.Interfaces.UseCase;
+using Domain.Interfaces.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ejercicio3.Controllers
 {
     public class DepartamentoController : Controller
     {
-        // GET: DepartamentoController
-        public ActionResult Index()
+        private readonly IDepartamentoRepositoryUseCase _useCase;
+        private readonly IDepartamentoRepository _repoDepartamentos;
+
+        public DepartamentoController(
+            IDepartamentoRepositoryUseCase useCase,
+            IDepartamentoRepository repoDepartamentos)
+        {
+            _useCase = useCase;
+            _repoDepartamentos = repoDepartamentos;
+        }
+
+        // GET: Departamento/Mostrar
+        public IActionResult Index()
+        {
+            var lista = _useCase.getListaDepartamento();
+            return View("Mostrar", lista);
+        }
+
+        // GET: Departamento/Details/5
+        public IActionResult Details(int id)
+        {
+            var departamento = _repoDepartamentos.getDepartamentoPorId(id);
+            return View(departamento);
+        }
+
+        // GET: Departamento/Create
+        public IActionResult Create()
         {
             return View();
         }
 
-        // GET: DepartamentoController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: DepartamentoController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: DepartamentoController/Create
+        // POST: Departamento/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public IActionResult Create(Departamento departamentoNuevo)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
+            if (!ModelState.IsValid)
+                return View(departamentoNuevo);
 
-        // GET: DepartamentoController/Edit/5
-        public ActionResult Edit(int id)
+            _useCase.crearDepartamento(departamentoNuevo);
+            return RedirectToAction(nameof(Index));
+        }
+        // GET: Departamento/Edit/5
+        public IActionResult Edit(int id)
         {
-            return View();
+            var departamento = _repoDepartamentos.getDepartamentoPorId(id);
+            return View(departamento);
         }
-
-        // POST: DepartamentoController/Edit/5
+        // POST: Departamento/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public IActionResult Edit(int id, Departamento departamentoActualizado)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
+            if (!ModelState.IsValid)
+                return View(departamentoActualizado);
 
-        // GET: DepartamentoController/Delete/5
-        public ActionResult Delete(int id)
+            _useCase.actualizarDepartamento(id, departamentoActualizado);
+            return RedirectToAction(nameof(Index));
+        }
+        // GET: Departamento/Delete/5
+        public IActionResult Delete(int id)
         {
-            return View();
+            var departamento = _repoDepartamentos.getDepartamentoPorId(id);
+            return View(departamento);
         }
-
-        // POST: DepartamentoController/Delete/5
+        // POST: Departamento/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        [ActionName("Delete")]
+        public IActionResult DeletePost(int id)
         {
-            try
+            // El use case se ENCARGA de no permitir borrar si hay personas
+            int resultado = _useCase.eliminarDepartamento(id);
+
+            if (resultado == -1)
             {
-                return RedirectToAction(nameof(Index));
+                // Departamento con personas → NO se borra
+                ViewBag.ErrorMensaje = "No se puede eliminar un departamento que contiene personas.";
+                var departamento = _repoDepartamentos.getDepartamentoPorId(id);
+                return View("Delete", departamento);
             }
-            catch
-            {
-                return View();
-            }
+
+            return RedirectToAction(nameof(Index));
         }
     }
 }
