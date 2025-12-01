@@ -1,141 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\",
+  "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\mostrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\mostrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\departamento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\departamento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\departamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\departamento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\departamento\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\usecase\\personarepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\departamento\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\departamento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\usecase\\personarepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\usecase\\personarepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\usecase\\ipersonarepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\usecase\\ipersonarepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\usecase\\departamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\usecase\\departamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\usecase\\departamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\usecase\\idepartamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\usecase\\idepartamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\usecase\\ipersonarepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\usecase\\ipersonarepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\dto\\personaconnombredepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\personaconnombredepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|solutionrelative:data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\repositories\\repositoriosdepartamento\\departamentorepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|solutionrelative:data\\repositories\\repositoriosdepartamento\\departamentorepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\dto\\personaconnombredepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\personaconnombredepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\database\\bdconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\usecase\\idepartamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\usecase\\idepartamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\database\\bdconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|solutionrelative:data\\database\\bdconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D7834-A384-4204-9C9D-589D6CEB52F2}|Container\\Container.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\container\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2D7834-A384-4204-9C9D-589D6CEB52F2}|Container\\Container.csproj|solutionrelative:container\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\repositories\\repositoriosdepartamento\\departamentorepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|solutionrelative:data\\repositories\\repositoriosdepartamento\\departamentorepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\mostrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\mostrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D7834-A384-4204-9C9D-589D6CEB52F2}|Container\\CompositionRoute.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\container\\compositionroute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BE2D7834-A384-4204-9C9D-589D6CEB52F2}|Container\\CompositionRoute.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\container\\compositionroute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BE2D7834-A384-4204-9C9D-589D6CEB52F2}|Container\\CompositionRoute.csproj|solutionrelative:container\\compositionroute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\ejercicio3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\ejercicio3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\ejercicio3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -146,15 +138,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T13:23:44.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonaConNombreDepartamento.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConNombreDepartamento.cs",
+              "RelativeDocumentMoniker": "Domain\\dto\\PersonaConNombreDepartamento.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConNombreDepartamento.cs",
+              "RelativeToolTip": "Domain\\dto\\PersonaConNombreDepartamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:12:57.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Ejercicio3\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:16:59.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "Ejercicio3\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAQwK4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:17:25.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Create.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:32:32.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Delete.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Delete.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:33:47.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Details.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Details.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:29:59.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Edit.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Edit.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:33:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:32:00.855Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Ejercicio3\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -163,180 +272,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Delete.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:39:14.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Edit.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:38:36.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Create.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Create.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Create.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:37:32.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\PersonaController.cs",
-              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\PersonaController.cs",
-              "RelativeToolTip": "Ejercicio3\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAADwv1kAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:16:59.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Details.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Details.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Details.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:35:56.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Mostrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Mostrar.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Mostrar.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Mostrar.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Mostrar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:34:37.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DepartamentoController.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\DepartamentoController.cs",
-              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\DepartamentoController.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\DepartamentoController.cs",
-              "RelativeToolTip": "Ejercicio3\\Controllers\\DepartamentoController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswEkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:17:25.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Delete.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:33:47.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Edit.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:33:20.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Create.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Create.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Create.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:32:32.228Z",
+              "Title": "DepartamentoRepositoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:16:02.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Index.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Index.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:32:00.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Details.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Departamento\\Details.cshtml",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Departamento\\Details.cshtml",
-              "RelativeToolTip": "Ejercicio3\\Views\\Departamento\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:29:59.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PersonaRepositoryUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\PersonaRepositoryUseCase.cs",
-              "RelativeDocumentMoniker": "Domain\\UseCase\\PersonaRepositoryUseCase.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\PersonaRepositoryUseCase.cs",
-              "RelativeToolTip": "Domain\\UseCase\\PersonaRepositoryUseCase.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAywDsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:15:24.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "IPersonaRepositoryUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
               "RelativeToolTip": "Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,37 +298,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IDepartamentoRepositoryUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "PersonaRepositoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\PersonaRepositoryUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCase\\PersonaRepositoryUseCase.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\PersonaRepositoryUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCase\\PersonaRepositoryUseCase.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T10:59:09.554Z",
+              "WhenOpened": "2025-11-26T13:15:24.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IPersonaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "PersonaRepositoryAzure.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
+              "RelativeToolTip": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T10:55:33.651Z",
+              "WhenOpened": "2025-11-26T12:53:55.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "IDepartamentoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
               "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -385,62 +338,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "DepartamentoRepositoryUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
-              "RelativeDocumentMoniker": "Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
-              "RelativeToolTip": "Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "IDepartamentoRepositoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:16:02.85Z",
+              "WhenOpened": "2025-11-30T10:59:09.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Persona.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Persona.cs",
-              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAgwGEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:33:26.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Departamento.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Departamento.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Departamento.cs",
-              "RelativeToolTip": "Domain\\Entities\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:33:07.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PersonaConNombreDepartamento.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConNombreDepartamento.cs",
-              "RelativeDocumentMoniker": "Domain\\dto\\PersonaConNombreDepartamento.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConNombreDepartamento.cs",
-              "RelativeToolTip": "Domain\\dto\\PersonaConNombreDepartamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:12:57.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 16,
               "Title": "PersonaConListadoDepartamento.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConListadoDepartamento.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConListadoDepartamento.cs",
               "RelativeDocumentMoniker": "Domain\\dto\\PersonaConListadoDepartamento.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConListadoDepartamento.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConListadoDepartamento.cs",
               "RelativeToolTip": "Domain\\dto\\PersonaConListadoDepartamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -449,146 +363,185 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PersonaRepositoryAzure.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
-              "RelativeToolTip": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAQwF0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:53:55.477Z",
-              "EditorCaption": ""
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Delete.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:39:14.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
+              "Title": "Mostrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Mostrar.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Mostrar.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Mostrar.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Mostrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:34:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "DepartamentoRepositoryAzure.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriosdepartamento\\DepartamentoRepositoryAzure.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriosdepartamento\\DepartamentoRepositoryAzure.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\repositoriosdepartamento\\DepartamentoRepositoryAzure.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriosdepartamento\\DepartamentoRepositoryAzure.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriosdepartamento\\DepartamentoRepositoryAzure.cs",
               "RelativeToolTip": "Data\\Repositories\\repositoriosdepartamento\\DepartamentoRepositoryAzure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T12:55:02.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 17,
               "Title": "BDConection.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\DataBase\\BDConection.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\DataBase\\BDConection.cs",
               "RelativeDocumentMoniker": "Data\\DataBase\\BDConection.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\DataBase\\BDConection.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\DataBase\\BDConection.cs",
               "RelativeToolTip": "Data\\DataBase\\BDConection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T13:28:54.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DI.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Container\\DI.cs",
-              "RelativeDocumentMoniker": "Container\\DI.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Container\\DI.cs",
-              "RelativeToolTip": "Container\\DI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:03:59.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T16:42:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Edit.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:38:36.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:55:33.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwGEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:33:26.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Departamento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Departamento.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Departamento.cs",
+              "RelativeToolTip": "Domain\\Entities\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:33:07.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T13:11:16.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Program.cs",
-              "RelativeToolTip": "Ejercicio3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T16:42:28.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T13:01:56.332Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
+              "Title": "CompositionRoute.csproj",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Container\\CompositionRoute.csproj",
+              "RelativeDocumentMoniker": "Container\\CompositionRoute.csproj",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Container\\CompositionRoute.csproj",
+              "RelativeToolTip": "Container\\CompositionRoute.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-26T13:11:16.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T13:22:47.655Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Class1.cs",
-              "RelativeDocumentMoniker": "Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Class1.cs",
-              "RelativeToolTip": "Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:01:56.332Z",
-              "EditorCaption": ""
+              "Title": "Ejercicio3.csproj",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
+              "RelativeDocumentMoniker": "Ejercicio3\\Ejercicio3.csproj",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
+              "RelativeToolTip": "Ejercicio3\\Ejercicio3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T12:57:24.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Container.csproj",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Container\\CompositionRoute.csproj",
-              "RelativeDocumentMoniker": "Container\\CompositionRoute.csproj",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Container\\CompositionRoute.csproj",
-              "RelativeToolTip": "Container\\CompositionRoute.csproj",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-19T13:22:47.655Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:01:43.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Ejercicio3.csproj",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
-              "RelativeDocumentMoniker": "Ejercicio3\\Ejercicio3.csproj",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Ejercicio3.csproj",
-              "RelativeToolTip": "Ejercicio3\\Ejercicio3.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-19T12:57:24.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:01:43.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Ejercicio3\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Ejercicio3\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:49:47.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T12:49:47.598Z"
             }
           ]
         }

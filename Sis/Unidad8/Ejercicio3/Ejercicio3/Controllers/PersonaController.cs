@@ -22,29 +22,65 @@ namespace Ejercicio3.Controllers
             _repoDepartamentos = repoDepartamentos;
         }
 
+        public IActionResult Index()
+        {
+            try { 
+                var lista = _useCase.getListaPersonasConNombreDepartameto();
+                return View(lista);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
+
+            
+        }
+
         // GET: Personas
         public IActionResult Mostrar()
         {
-            var lista = _useCase.getListaPersonasConNombreDepartameto();
-            return View(lista);
+            try
+            {
+                var lista = _useCase.getListaPersonasConNombreDepartameto();
+                return View(lista);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // GET: Personas/Details/5
         public IActionResult Details(int id)
         {
-            var persona = _repoPersonas.getPersonaPorId(id);
-            var dto = _useCase.getPersonaConNombreDepartamento(id);
+            try
+            {
+                var persona = _repoPersonas.getPersonaPorId(id);
+                var dto = _useCase.getPersonaConNombreDepartamento(id);
 
-            return View(dto);
+                return View(dto);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // GET: Personas/Create
         public IActionResult Create()
         {
-            var persona = new Persona();
-            var dto = new PersonaConListadoDepartamento(persona, _repoDepartamentos);
+            try
+            {
 
-            return View(dto);
+                var persona = new Persona();
+                var dto = new PersonaConListadoDepartamento(persona, _repoDepartamentos);
+
+                return View(dto);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // POST: Personas/Create
@@ -52,23 +88,39 @@ namespace Ejercicio3.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Persona personaNueva)
         {
-            if (!ModelState.IsValid)
+            try
             {
-                var dto = new PersonaConListadoDepartamento(personaNueva, _repoDepartamentos);
-                return View(dto);
-            }
 
-            _useCase.crearPersona(personaNueva);
-            return RedirectToAction(nameof(Mostrar));
+                if (!ModelState.IsValid)
+                {
+                    var dto = new PersonaConListadoDepartamento(personaNueva, _repoDepartamentos);
+                    return View(dto);
+                }
+
+                _useCase.crearPersona(personaNueva);
+                return RedirectToAction(nameof(Mostrar));
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // GET: Personas/Edit/5
         public IActionResult Edit(int id)
         {
-            var persona = _repoPersonas.getPersonaPorId(id);
-            var dto = new PersonaConListadoDepartamento(persona, _repoDepartamentos);
+            try
+            {
 
-            return View(dto);
+                var persona = _repoPersonas.getPersonaPorId(id);
+                var dto = new PersonaConListadoDepartamento(persona, _repoDepartamentos);
+
+                return View(dto);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // POST: Personas/Edit/5
@@ -76,23 +128,39 @@ namespace Ejercicio3.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Persona personaActualizada)
         {
-            if (!ModelState.IsValid)
+            try
             {
-                var dto = new PersonaConListadoDepartamento(personaActualizada, _repoDepartamentos);
-                return View(dto);
-            }
 
-            _useCase.actualizarPersona(id, personaActualizada);
-            return RedirectToAction(nameof(Mostrar));
+                if (!ModelState.IsValid)
+                {
+                    var dto = new PersonaConListadoDepartamento(personaActualizada, _repoDepartamentos);
+                    return View(dto);
+                }
+
+                _useCase.actualizarPersona(id, personaActualizada);
+                return RedirectToAction(nameof(Mostrar));
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // GET: Personas/Delete/5
         public IActionResult Delete(int id)
         {
-            var persona = _repoPersonas.getPersonaPorId(id);
-            var dto = _useCase.getPersonaConNombreDepartamento(id);
+            try
+            {
+                var persona = _repoPersonas.getPersonaPorId(id);
 
-            return View(dto);
+                var dto = _useCase.getPersonaConNombreDepartamento(id);
+
+                return View(dto);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // POST: Personas/Delete/5
@@ -101,8 +169,15 @@ namespace Ejercicio3.Controllers
         [ActionName("Delete")]
         public IActionResult DeletePost(int id)
         {
-            _useCase.eliminarPersona(id);
-            return RedirectToAction(nameof(Mostrar));
+            try
+            {
+                _useCase.eliminarPersona(id);
+                return RedirectToAction(nameof(Mostrar));
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
     }
 }

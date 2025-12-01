@@ -15,7 +15,7 @@ namespace Data.Repositories.repositoriosdepartamento
     {
 
 
-        public List<Departamento> getListadoDepartamento()
+        public List<Departamento> getListaDepartamentos()
         {
             List<Departamento> lista = new();
             using SqlConnection conn = new(BDConection.getConnectionString());
@@ -111,9 +111,6 @@ namespace Data.Repositories.repositoriosdepartamento
             return dep;
         }
 
-        public List<Departamento> getListaDepartamentos()
-        {
-            throw new NotImplementedException();
-        }
+      
     }
 }

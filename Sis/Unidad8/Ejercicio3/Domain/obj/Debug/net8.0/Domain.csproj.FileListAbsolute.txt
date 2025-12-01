@@ -15,3 +15,10 @@ C:\Users\albad\OneDrive\Documentos\GitHub\SistemaDeGEstionEmpresarial\Sis\Unidad
 C:\Users\albad\OneDrive\Documentos\GitHub\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\albad\OneDrive\Documentos\GitHub\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\albad\OneDrive\Documentos\GitHub\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\alba.duque\Desktop\SistemaDeGEstionEmpresarial\Sis\Unidad8\Ejercicio3\Domain\obj\Debug\net8.0\ref\Domain.dll

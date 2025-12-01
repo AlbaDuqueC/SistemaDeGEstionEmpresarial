@@ -11,7 +11,7 @@ namespace Data.DataBase
 
         public static String getConnectionString()
         {
-            return "server=duque.database.windows.net;database=PersonaDB;uid=prueba;pwd=.1234abcd.;trustServerCertificate = true;";
+            return "server=duque.database.windows.net;database=PersonasDB;uid=prueba5;pwd=Abcd1234!;trustServerCertificate = true;";
         }
 
     }

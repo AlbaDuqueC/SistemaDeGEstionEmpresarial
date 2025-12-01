@@ -12,8 +12,8 @@ namespace Domain.UseCase
 {
     public class PersonaRepositoryUseCase : IPersonaRepositoryUseCase
     {
-        private readonly IPersonaRepository _repositorioPersonas;
-        private readonly IDepartamentoRepository _repositorioDepartamentos;
+        private  IPersonaRepository _repositorioPersonas;
+        private  IDepartamentoRepository _repositorioDepartamentos;
 
         private int _idPersonaSeleccionada;  
 
@@ -57,13 +57,16 @@ namespace Domain.UseCase
         }
 
         public int crearPersona(Persona personaNueva)
-            => _repositorioPersonas.crearPersona(personaNueva);
+        { 
+            return _repositorioPersonas.crearPersona(personaNueva); 
+        }
 
         public int actualizarPersona(int idPersona, Persona personaActualizada)
-            => _repositorioPersonas.actualizarPersona(idPersona, personaActualizada);
+        { return _repositorioPersonas.actualizarPersona(idPersona, personaActualizada); 
+        }
 
         public int eliminarPersona(int idPersona)
-            => _repositorioPersonas.eliminarPersona(idPersona);
+        { return _repositorioPersonas.eliminarPersona(idPersona); }
 
 
     }

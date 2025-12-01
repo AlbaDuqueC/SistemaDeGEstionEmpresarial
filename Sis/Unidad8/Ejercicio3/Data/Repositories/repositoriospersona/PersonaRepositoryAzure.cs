@@ -13,7 +13,10 @@ namespace Data.Repositories.repositoriospersona
 {
     public class PersonaRepositoryAzure : IPersonaRepository
     {
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public List<Persona> getListaPersonas()
         {
             List<Persona> lista = new();

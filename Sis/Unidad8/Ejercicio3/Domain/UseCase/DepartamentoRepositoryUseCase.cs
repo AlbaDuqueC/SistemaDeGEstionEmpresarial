@@ -12,7 +12,7 @@ namespace Domain.UseCase
     public class DepartamentoRepositoryUseCase : IDepartamentoRepositoryUseCase
     {
 
-        private readonly IDepartamentoRepository _repositorioDepartamentos;
+        private IDepartamentoRepository _repositorioDepartamentos;
 
         public DepartamentoRepositoryUseCase(IDepartamentoRepository repo)
         {
@@ -20,19 +20,19 @@ namespace Domain.UseCase
         }
 
         public List<Departamento> getListaDepartamento()
-            => _repositorioDepartamentos.getListaDepartamentos();
+        { return _repositorioDepartamentos.getListaDepartamentos(); }
 
         public int crearDepartamento(Departamento departamentoNuevo)
-            => _repositorioDepartamentos.crearDepartamento(departamentoNuevo);
+        { return _repositorioDepartamentos.crearDepartamento(departamentoNuevo); }
 
         public int actualizarDepartamento(int idDepartamento, Departamento departamentoActualizado)
-            => _repositorioDepartamentos.actualizarDepartamento(idDepartamento, departamentoActualizado);
+        { return _repositorioDepartamentos.actualizarDepartamento(idDepartamento, departamentoActualizado); }
 
         public int eliminarDepartamento(int idDepartamento)
         {
             if (_repositorioDepartamentos.contarDepartamento(idDepartamento) > 0)
                 return -1; // No se puede eliminar
-
+            
             return _repositorioDepartamentos.eliminarDepartamento(idDepartamento);
         }
 

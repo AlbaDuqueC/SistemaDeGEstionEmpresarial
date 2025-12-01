@@ -18,24 +18,67 @@ namespace Ejercicio3.Controllers
             _repoDepartamentos = repoDepartamentos;
         }
 
-        // GET: Departamento/Mostrar
         public IActionResult Index()
+        {
+            try
+            {
+                var lista = _useCase.getListaDepartamento();
+                return View(lista);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }  
+        }
+
+        public IActionResult Mostrar()
+        {
+
+            try
+            {
+
+                var lista = _useCase.getListaDepartamento();
+                return View(lista);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
+        }
+
+        // GET: Departamento/Mostrar
+        /*public IActionResult Index()
         {
             var lista = _useCase.getListaDepartamento();
             return View("Mostrar", lista);
-        }
+        }*/
 
         // GET: Departamento/Details/5
         public IActionResult Details(int id)
         {
-            var departamento = _repoDepartamentos.getDepartamentoPorId(id);
-            return View(departamento);
+            try
+            {
+
+                var departamento = _repoDepartamentos.getDepartamentoPorId(id);
+                return View(departamento);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // GET: Departamento/Create
         public IActionResult Create()
         {
-            return View();
+            try
+            {
+                return View();
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
 
         // POST: Departamento/Create
@@ -43,34 +86,66 @@ namespace Ejercicio3.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Departamento departamentoNuevo)
         {
-            if (!ModelState.IsValid)
-                return View(departamentoNuevo);
 
-            _useCase.crearDepartamento(departamentoNuevo);
-            return RedirectToAction(nameof(Index));
+            try
+            {
+
+                if (!ModelState.IsValid)
+                    return View(departamentoNuevo);
+
+                _useCase.crearDepartamento(departamentoNuevo);
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
         // GET: Departamento/Edit/5
         public IActionResult Edit(int id)
         {
-            var departamento = _repoDepartamentos.getDepartamentoPorId(id);
-            return View(departamento);
+            try
+            {
+
+                var departamento = _repoDepartamentos.getDepartamentoPorId(id);
+                return View(departamento);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
         // POST: Departamento/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Departamento departamentoActualizado)
         {
-            if (!ModelState.IsValid)
-                return View(departamentoActualizado);
+            try
+            {
+                if (!ModelState.IsValid)
+                    return View(departamentoActualizado);
 
-            _useCase.actualizarDepartamento(id, departamentoActualizado);
-            return RedirectToAction(nameof(Index));
+                _useCase.actualizarDepartamento(id, departamentoActualizado);
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
         // GET: Departamento/Delete/5
         public IActionResult Delete(int id)
         {
-            var departamento = _repoDepartamentos.getDepartamentoPorId(id);
-            return View(departamento);
+            try
+            {
+
+                var departamento = _repoDepartamentos.getDepartamentoPorId(id);
+                return View(departamento);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
         // POST: Departamento/Delete/5
         [HttpPost]
@@ -78,18 +153,25 @@ namespace Ejercicio3.Controllers
         [ActionName("Delete")]
         public IActionResult DeletePost(int id)
         {
-            // El use case se ENCARGA de no permitir borrar si hay personas
-            int resultado = _useCase.eliminarDepartamento(id);
-
-            if (resultado == -1)
+            try
             {
-                // Departamento con personas → NO se borra
-                ViewBag.ErrorMensaje = "No se puede eliminar un departamento que contiene personas.";
-                var departamento = _repoDepartamentos.getDepartamentoPorId(id);
-                return View("Delete", departamento);
-            }
+                // El use case se ENCARGA de no permitir borrar si hay personas
+                int resultado = _useCase.eliminarDepartamento(id);
 
-            return RedirectToAction(nameof(Index));
+                if (resultado == -1)
+                {
+                    // Departamento con personas → NO se borra
+                    ViewBag.ErrorMensaje = "No se puede eliminar un departamento que contiene personas.";
+                    var departamento = _repoDepartamentos.getDepartamentoPorId(id);
+                    return View("Delete", departamento);
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("Mostrar");
+            }
         }
     }
 }
