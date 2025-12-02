@@ -1,77 +1,52 @@
-﻿@model IEnumerable<Domain.Entities.Persona>
+﻿@model List<Domain.dto.PersonaConNombreDepartamento>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Lista de Personas";
 }
 
-<h1>Index</h1>
+<h2>Lista de Personas</h2>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Crear Nueva Persona</a>
 </p>
-<table class="table">
+
+<table class="table table-striped">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.ID)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Nombre)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Apellidos)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Edad)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FechaNacimiento)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Direccion)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Telefono)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdDepartamento)
-            </th>
-            <th></th>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Teléfono</th>
+            <th>Dirección</th>
+            <th>Fecha Nacimiento</th>
+            <th>Departamento</th>
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.ID)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nombre)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Apellidos)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Edad)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FechaNacimiento)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Direccion)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Telefono)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdDepartamento)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Persona.ID</td>
+                <td>@item.Persona.Nombre</td>
+                <td>@item.Persona.Apellidos</td>
+                <td>@(string.IsNullOrEmpty(item.Persona.Telefono) ? "-" : item.Persona.Telefono)</td>
+                <td>@(string.IsNullOrEmpty(item.Persona.Direccion) ? "-" : item.Persona.Direccion)</td>
+                <td>@(item.Persona.FechaNacimiento == DateTime.MinValue ? "-" : item.Persona.FechaNacimiento.ToString("dd/MM/yyyy"))</td>
+                <td>@item.NombreDepartamento</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Persona.ID" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-action="Details" asp-route-id="@item.Persona.ID" class="btn btn-sm btn-info">Detalles</a>
+                    <a asp-action="Delete" asp-route-id="@item.Persona.ID" class="btn btn-sm btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+@if (Model == null || !Model.Any())
+{
+    <div class="alert alert-info">
+        No hay personas registradas.
+    </div>
+}

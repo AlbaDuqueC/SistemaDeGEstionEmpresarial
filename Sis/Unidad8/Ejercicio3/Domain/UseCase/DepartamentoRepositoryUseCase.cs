@@ -22,6 +22,9 @@ namespace Domain.UseCase
         public List<Departamento> getListaDepartamento()
         { return _repositorioDepartamentos.getListaDepartamentos(); }
 
+        public Departamento getDepartamentoId(int id)
+        { return _repositorioDepartamentos.getDepartamentoPorId(id); }
+
         public int crearDepartamento(Departamento departamentoNuevo)
         { return _repositorioDepartamentos.crearDepartamento(departamentoNuevo); }
 

@@ -24,18 +24,10 @@ namespace Ejercicio3.Controllers
 
         public IActionResult Index()
         {
-            try { 
-                var lista = _useCase.getListaPersonasConNombreDepartameto();
-                return View(lista);
-            }
-            catch (Exception ex)
-            {
-                return RedirectToAction("Mostrar");
-            }
 
-            
+            var lista = _useCase.getListaPersonasConNombreDepartameto();
+            return View(lista);
         }
-
         // GET: Personas
         public IActionResult Mostrar()
         {
@@ -49,6 +41,8 @@ namespace Ejercicio3.Controllers
                 return RedirectToAction("Mostrar");
             }
         }
+    
+        
 
         // GET: Personas/Details/5
         public IActionResult Details(int id)
@@ -86,11 +80,10 @@ namespace Ejercicio3.Controllers
         // POST: Personas/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Persona personaNueva)
+        public IActionResult Create(Persona personaNueva)  // ← Debe ser Persona, no el DTO
         {
             try
             {
-
                 if (!ModelState.IsValid)
                 {
                     var dto = new PersonaConListadoDepartamento(personaNueva, _repoDepartamentos);

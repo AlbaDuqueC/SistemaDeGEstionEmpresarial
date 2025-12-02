@@ -10,13 +10,18 @@ namespace Domain.dto
 {
     public class PersonaConNombreDepartamento
     {
-        public Persona Persona { get; private set; }
-        public string NombreDepartamento { get; private set; }
+        public Persona Persona { get; set; }
+        public string NombreDepartamento { get; set; }
 
-        public PersonaConNombreDepartamento(Persona persona, IDepartamentoRepository repoDepartamentos)
+        public List<Departamento> departamentos { get; set; }
+
+        public PersonaConNombreDepartamento() { }
+
+        public PersonaConNombreDepartamento(Persona persona, string nombreDepartamento, List<Departamento> departamentos)
         {
             Persona = persona;
-            NombreDepartamento = repoDepartamentos.getDepartamentoPorId(persona.IdDepartamento)?.Nombre;
+            NombreDepartamento = nombreDepartamento;
+            this.departamentos = departamentos;
         }
     }
 }

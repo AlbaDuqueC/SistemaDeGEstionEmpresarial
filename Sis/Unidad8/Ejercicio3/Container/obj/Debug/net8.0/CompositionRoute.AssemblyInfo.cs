@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompositionRoute")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d4fe0b055d094d38c6060cd7fa642378eabb1f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31cfbfba91390a54f4390d6f485c752aa4db1a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompositionRoute")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompositionRoute")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

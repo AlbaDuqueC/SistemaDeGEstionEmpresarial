@@ -1,66 +1,60 @@
-﻿@model Domain.Entities.Persona
+﻿@model Domain.dto.PersonaConNombreDepartamento
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Detalles de Persona";
 }
 
-<h1>Details</h1>
+<h2>Detalles de Persona</h2>
 
-<div>
-    <h4>Persona</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ID)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ID)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nombre)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nombre)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Apellidos)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Apellidos)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Edad)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Edad)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.FechaNacimiento)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.FechaNacimiento)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Direccion)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Direccion)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Telefono)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Telefono)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IdDepartamento)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.IdDepartamento)
-        </dd>
-    </dl>
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">ID</dt>
+            <dd class="col-sm-9">@Model.Persona.ID</dd>
+
+            <dt class="col-sm-3">Nombre</dt>
+            <dd class="col-sm-9">@Model.Persona.Nombre</dd>
+
+            <dt class="col-sm-3">Apellidos</dt>
+            <dd class="col-sm-9">@Model.Persona.Apellidos</dd>
+
+            <dt class="col-sm-3">Teléfono</dt>
+            <dd class="col-sm-9">@(string.IsNullOrEmpty(Model.Persona.Telefono) ? "No especificado" : Model.Persona.Telefono)</dd>
+
+            <dt class="col-sm-3">Dirección</dt>
+            <dd class="col-sm-9">@(string.IsNullOrEmpty(Model.Persona.Direccion) ? "No especificada" : Model.Persona.Direccion)</dd>
+
+            <dt class="col-sm-3">Foto</dt>
+            <dd class="col-sm-9">
+                @if (!string.IsNullOrEmpty(Model.Persona.Foto))
+                {
+                    <img src="@Model.Persona.Foto" alt="Foto de @Model.Persona.Nombre" style="max-width: 200px;" class="img-thumbnail" />
+                }
+                else
+                {
+                    <span>No tiene foto</span>
+                }
+            </dd>
+
+            <dt class="col-sm-3">Fecha de Nacimiento</dt>
+            <dd class="col-sm-9">
+                @if (Model.Persona.FechaNacimiento != DateTime.MinValue)
+                {
+                    @Model.Persona.FechaNacimiento.ToString("dd/MM/yyyy")
+                }
+                else
+                {
+                    <span>No especificada</span>
+                }
+            </dd>
+
+            <dt class="col-sm-3">Departamento</dt>
+            <dd class="col-sm-9">@Model.NombreDepartamento</dd>
+        </dl>
+    </div>
 </div>
-<div>
-    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
-    <a asp-action="Index">Back to List</a>
+
+<div class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model.Persona.ID" class="btn btn-warning">Editar</a>
+    <a asp-action="Mostrar" class="btn btn-secondary">Volver a la lista</a>
 </div>

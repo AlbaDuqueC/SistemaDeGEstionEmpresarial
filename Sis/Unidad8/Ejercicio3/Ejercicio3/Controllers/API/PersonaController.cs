@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Domain.dto;
+using Domain.Entities;
 using Domain.Interfaces.UseCase;
 
 using Microsoft.AspNetCore.Mvc;
@@ -23,7 +24,7 @@ namespace Ejercicio3.Controllers.API
         public IActionResult Get()
         {
             IActionResult salida;
-            List<Persona> listadoCompleto = new List<Persona>();
+            List<PersonaConNombreDepartamento> listadoCompleto = new List<PersonaConNombreDepartamento>();
 
             try
             {

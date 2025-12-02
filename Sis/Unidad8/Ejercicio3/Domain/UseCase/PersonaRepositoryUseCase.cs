@@ -34,12 +34,23 @@ namespace Domain.UseCase
         public List<PersonaConNombreDepartamento> getListaPersonasConNombreDepartameto()
         {
             var lista = _repositorioPersonas.getListaPersonas();
-            List<PersonaConNombreDepartamento> result = new();
+            var listaDepartamentos = _repositorioDepartamentos.getListaDepartamentos();
+            var listaConNombre = new List<PersonaConNombreDepartamento>();
+
+
 
             foreach (var p in lista)
-                result.Add(new PersonaConNombreDepartamento(p, _repositorioDepartamentos));
 
-            return result;
+                foreach (var d in listaDepartamentos)
+                {
+                    if (p.IdDepartamento == d.ID)
+                    {
+                        listaConNombre.Add(new PersonaConNombreDepartamento(p, d.Nombre, listaDepartamentos));
+                        break;
+                    }
+                }
+
+            return listaConNombre;
         }
 
         public PersonaConListadoDepartamento getPersonaConListadoDepartamento(int id)
@@ -53,7 +64,9 @@ namespace Domain.UseCase
         public PersonaConNombreDepartamento getPersonaConNombreDepartamento(int id)
         {
             var persona = _repositorioPersonas.getPersonaPorId(id);
-            return new PersonaConNombreDepartamento(persona, _repositorioDepartamentos);
+            var departamento = _repositorioDepartamentos.getDepartamentoPorId(persona.IdDepartamento);
+            var listaDepartamentos = _repositorioDepartamentos.getListaDepartamentos();
+            return new PersonaConNombreDepartamento(persona, departamento.Nombre, listaDepartamentos);
         }
 
         public int crearPersona(Persona personaNueva)

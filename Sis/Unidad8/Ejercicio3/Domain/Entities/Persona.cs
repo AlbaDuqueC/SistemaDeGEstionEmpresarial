@@ -13,10 +13,10 @@ namespace Domain.Entities
         private int _id;
         private string _nombre;
         private string _apellidos;
-        private int _edad;
-        private DateTime _fechaNacimiento;
-        private string _direccion;
         private string _telefono;
+        private string _direccion;
+        private string _foto;
+        private DateTime _fechaNacimiento;
         private int _idDepartamento;
 
 
@@ -28,21 +28,19 @@ namespace Domain.Entities
         /// <param name="id"></param>
         /// <param name="nombre"></param>
         /// <param name="apellido"></param>
-        /// <param name="edad"></param>
         /// <param name="fechaNacimiento"></param>
-        /// <param name="_direccion"></param>
-        /// <param name="_telefono"></param>
-        /// <param name="idDepartamento"></param>
-        public Persona(int id, string nombre, string apellido, int edad, DateTime fechaNacimiento, string _direccion, string _telefono, int idDepartamento)
+        /// 
+        public Persona(int id, string nombre, string apellido, string telefono, string direccion, string foto, DateTime fechaNacimiento, int idDepartamento)
+
         {
             this._id = id;
             this._nombre = nombre;
             this._apellidos = apellido;
-            this._edad = edad;
+            this._telefono = telefono;
+            this._direccion = direccion;
             this._fechaNacimiento = fechaNacimiento;
-            this._direccion = _direccion;
-            this._telefono = _telefono;
-            _idDepartamento = idDepartamento;
+            this._foto = foto;
+            this._idDepartamento = idDepartamento;
         }
 
         /// <summary>
@@ -53,7 +51,7 @@ namespace Domain.Entities
             this._id = 0;
             this._nombre = string.Empty;
             this._apellidos = string.Empty;
-            this._edad = 0;
+            this._foto = string.Empty;
             this._fechaNacimiento = DateTime.MinValue;
             this._direccion = string.Empty;
             this._telefono = string.Empty;
@@ -69,6 +67,7 @@ namespace Domain.Entities
             {
                 return _id;
             }
+           
         }
 
         public string Nombre
@@ -95,15 +94,15 @@ namespace Domain.Entities
             }
         }
 
-        public int Edad
+        public string Foto
         {
             get
             {
-                return _edad;
+                return _foto;
             }
             set
             {
-                _edad = value;
+                _foto = value;
             }
         }
 

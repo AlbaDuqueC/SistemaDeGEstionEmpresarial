@@ -2,6 +2,7 @@
 using Domain.Interfaces.UseCase;
 using Domain.Interfaces.Repositories;
 using Microsoft.AspNetCore.Mvc;
+using AspNetCoreGeneratedDocument;
 
 namespace Ejercicio3.Controllers
 {

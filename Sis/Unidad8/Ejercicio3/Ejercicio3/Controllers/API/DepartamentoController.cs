@@ -44,7 +44,7 @@ namespace Ejercicio3.Controllers.API
             IActionResult salida;
             try
             {
-                var departamento = _casoUso.getListaDepartamento(id);
+                var departamento = _casoUso.getDepartamentoId(id);
                 salida = departamento != null ? Ok(departamento) : NotFound();
             }
             catch (Exception ex)
@@ -84,7 +84,7 @@ namespace Ejercicio3.Controllers.API
         {
             IActionResult salida;
 
-            if (id != departamento.id)
+            if (id != departamento.ID)
             {
                 salida = BadRequest("El ID del departamento no coincide.");
             }
@@ -96,7 +96,7 @@ namespace Ejercicio3.Controllers.API
             {
                 try
                 {
-                    _casoUso.actualizarDepartamento(departamento);
+                    _casoUso.actualizarDepartamento(id, departamento);
                     salida = Ok("El departamento se actualizó correctamente");
                 }
                 catch (Exception ex)

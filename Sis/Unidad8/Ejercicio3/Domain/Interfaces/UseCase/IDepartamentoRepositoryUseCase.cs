@@ -16,5 +16,7 @@ namespace Domain.Interfaces.UseCase
         public int actualizarDepartamento(int idDepartamento, Departamento departamentoActualizado);
 
         public int eliminarDepartamento(int idDepartamento);
+
+        public Departamento getDepartamentoId(int id);
     }
 }
