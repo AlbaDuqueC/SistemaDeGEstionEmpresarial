@@ -2,13 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Sis",
-    "\\Sis\\Andres\\ListadoPersonasClean-master",
     "\\Sis\\Unidad8",
     "\\Sis\\Unidad8\\Ejercicio3",
     "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3",
-    "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views",
-    "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\departamentos"
+    "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers",
+    "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API",
+    "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views"
   ],
-  "SelectedNode": "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\departamentos\\Mostrar.cshtml",
+  "SelectedNode": "\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
   "PreviewInSolutionExplorer": false
 }

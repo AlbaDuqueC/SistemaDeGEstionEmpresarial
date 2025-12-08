@@ -145,6 +145,80 @@ namespace Data.Repositories.repositoriospersona
             return cmd.ExecuteNonQuery();
         }
 
-        
+        public Persona getPersonaById(int idPersona)
+        {
+            Persona persona = null;
+            using SqlConnection conn = new(BDConection.getConnectionString());
+            conn.Open();
+
+            string sql = "SELECT * FROM Personas WHERE Id=@id";
+            SqlCommand cmd = new(sql, conn);
+            cmd.Parameters.AddWithValue("@id", idPersona);
+
+            using var reader = cmd.ExecuteReader();
+            if (reader.Read())
+            {
+                int id = reader.GetInt32(0);
+                string nombre = reader.GetString(1);
+                string apellidos = reader.GetString(2);
+
+                string telefono = string.Empty;
+                if (!reader.IsDBNull(3))
+                    telefono = reader.GetString(3);
+
+                string direccion = string.Empty;
+                if (!reader.IsDBNull(4))
+                    direccion = reader.GetString(4);
+
+                string foto = string.Empty;
+                if (!reader.IsDBNull(5))
+                    foto = reader.GetString(5);
+
+                DateTime fechaNacimiento = DateTime.MinValue;
+                if (!reader.IsDBNull(6))
+                    fechaNacimiento = reader.GetDateTime(6);
+
+                int idDepartamento = reader.GetInt32(7);
+
+                persona = new Persona(id, nombre, apellidos, telefono, direccion, foto, fechaNacimiento, idDepartamento);
+            }
+            return persona;
+        }
+
+        public IEnumerable<Departamento> getListaDepartamento()
+        {
+            List<Departamento> departamentos = new();
+            using SqlConnection conn = new(BDConection.getConnectionString());
+            conn.Open();
+
+            string sql = "SELECT ID, Nombre FROM Departamentos";
+            SqlCommand cmd = new(sql, conn);
+
+            using var reader = cmd.ExecuteReader();
+            while (reader.Read())
+            {
+                int id = reader.GetInt32(0);
+                string nombre = reader.GetString(1);
+
+                Departamento departamento = new Departamento
+                {
+                    // Asumiendo que la propiedad ID tiene un setter privado y se establece en el constructor,
+                    // y que Nombre es una propiedad pública con setter.
+                    // Si necesitas usar un constructor diferente, ajústalo aquí.
+                    Nombre = nombre
+                };
+
+                // Si la clase Departamento tiene un constructor que acepta id y nombre, usa:
+                // Departamento departamento = new Departamento(id, nombre);
+
+                // Si necesitas establecer el ID mediante reflexión o similar, ajústalo según tu implementación.
+                typeof(Departamento).GetField("_id", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance)
+                    ?.SetValue(departamento, id);
+
+                departamentos.Add(departamento);
+            }
+
+            return departamentos;
+        }
     }
 }

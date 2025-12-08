@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|solutionrelative:data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\api\\personawithlistadepartamentodtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\api\\personawithlistadepartamentodtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\api\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\api\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\api\\personawithnombredepartamentodtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\api\\personawithlistadepartamentodtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\api\\personawithlistadepartamentodtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\usecase\\departamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\usecase\\departamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\dto\\personaconnombredepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|solutionrelative:data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\albad\\onedrive\\documentos\\github\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,50 +178,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DepartamentoController.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
               "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
               "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
               "RelativeToolTip": "Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA3wEAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T13:32:31.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaController.cs",
-              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\API\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaController.cs",
-              "RelativeToolTip": "Ejercicio3\\Controllers\\API\\PersonaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T13:32:15.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonaWithNombreDepartamentoDtoController.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaWithNombreDepartamentoDtoController.cs",
-              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\API\\PersonaWithNombreDepartamentoDtoController.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaWithNombreDepartamentoDtoController.cs",
-              "RelativeToolTip": "Ejercicio3\\Controllers\\API\\PersonaWithNombreDepartamentoDtoController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAASwCkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T20:55:33.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "PersonaWithListaDepartamentoDtoController.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaWithListaDepartamentoDtoController.cs",
               "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\API\\PersonaWithListaDepartamentoDtoController.cs",
@@ -234,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DepartamentoRepositoryUseCase.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
               "RelativeDocumentMoniker": "Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
@@ -242,12 +216,11 @@
               "RelativeToolTip": "Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:16:02.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T13:16:02.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PersonaConListadoDepartamento.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConListadoDepartamento.cs",
               "RelativeDocumentMoniker": "Domain\\dto\\PersonaConListadoDepartamento.cs",
@@ -260,7 +233,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "PersonaRepositoryAzure.cs",
+              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
+              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
+              "RelativeToolTip": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAYwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:53:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonaWithNombreDepartamentoDtoController.cs",
+              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaWithNombreDepartamentoDtoController.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\API\\PersonaWithNombreDepartamentoDtoController.cs",
+              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaWithNombreDepartamentoDtoController.cs",
+              "RelativeToolTip": "Ejercicio3\\Controllers\\API\\PersonaWithNombreDepartamentoDtoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAASwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:55:33.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\API\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\PersonaController.cs",
+              "RelativeToolTip": "Ejercicio3\\Controllers\\API\\PersonaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:32:15.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PersonaConNombreDepartamento.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\dto\\PersonaConNombreDepartamento.cs",
               "RelativeDocumentMoniker": "Domain\\dto\\PersonaConNombreDepartamento.cs",
@@ -268,12 +278,11 @@
               "RelativeToolTip": "Domain\\dto\\PersonaConNombreDepartamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:12:57.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T13:12:57.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IDepartamentoRepositoryUseCase.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
@@ -281,12 +290,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\UseCase\\IDepartamentoRepositoryUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T10:59:09.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T10:59:09.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PersonaRepositoryUseCase.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\PersonaRepositoryUseCase.cs",
               "RelativeDocumentMoniker": "Domain\\UseCase\\PersonaRepositoryUseCase.cs",
@@ -294,12 +302,11 @@
               "RelativeToolTip": "Domain\\UseCase\\PersonaRepositoryUseCase.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAASwHQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:15:24.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T13:15:24.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IPersonaRepositoryUseCase.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
@@ -307,12 +314,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\UseCase\\IPersonaRepositoryUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T11:00:27.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T11:00:27.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IDepartamentoRepository.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
@@ -320,12 +326,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T10:58:04.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T10:58:04.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IPersonaRepository.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
@@ -333,12 +338,11 @@
               "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T10:55:33.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T10:55:33.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Edit.cshtml",
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Edit.cshtml",
@@ -350,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Create.cshtml",
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Create.cshtml",
@@ -358,12 +362,11 @@
               "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Create.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAIwEgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T11:42:16.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T11:42:16.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Home\\Index.cshtml",
@@ -375,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PersonaController.cs",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\PersonaController.cs",
               "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\PersonaController.cs",
@@ -387,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Delete.cshtml",
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Delete.cshtml",
@@ -396,18 +399,6 @@
               "ViewState": "AgIAAB8AAAAAAAAAAAAswDIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-02T11:53:23.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PersonaRepositoryAzure.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
-              "ToolTip": "C:\\Users\\albad\\OneDrive\\Documentos\\GitHub\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
-              "RelativeToolTip": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAcwIsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:53:55.477Z"
             },
             {
               "$type": "Document",
