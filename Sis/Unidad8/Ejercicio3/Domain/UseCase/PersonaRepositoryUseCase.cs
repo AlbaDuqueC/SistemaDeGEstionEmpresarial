@@ -57,8 +57,7 @@ namespace Domain.UseCase
         {
 
             var persona = _repositorioPersonas.getPersonaPorId(id);
-            return new PersonaConListadoDepartamento(persona, _repositorioDepartamentos);
-
+            return new PersonaConListadoDepartamento(persona, _repositorioDepartamentos.getListaDepartamentos());
         }
 
         public PersonaConNombreDepartamento getPersonaConNombreDepartamento(int id)
@@ -82,5 +81,38 @@ namespace Domain.UseCase
         { return _repositorioPersonas.eliminarPersona(idPersona); }
 
 
-    }
+        //HAY QUE ARREGLAR ESTOS MÉTODOS SIN PARÁMETROS QUE NO TIENEN SENTIDO
+        public PersonaConNombreDepartamento getPersonaConNombreDepartamento()
+        {
+            // Utiliza el idPersonaSeleccionada previamente establecido
+            var persona = _repositorioPersonas.getPersonaPorId(_idPersonaSeleccionada);
+            if (persona == null) return null;
+
+            var departamento = _repositorioDepartamentos.getDepartamentoPorId(persona.IdDepartamento);
+            var listaDepartamentos = _repositorioDepartamentos.getListaDepartamentos();
+
+            return new PersonaConNombreDepartamento(persona, departamento?.Nombre, listaDepartamentos);
+        }
+
+        public PersonaConListadoDepartamento getPersonaConListadoDepartamentoPorId(int idPersona)
+        {
+            Persona persona = _repositorioPersonas.getPersonaPorId(idPersona);
+            if (persona == null) return null;
+
+            return new PersonaConListadoDepartamento(persona, _repositorioDepartamentos.getListaDepartamentos());
+        }
+
+        public List<PersonaConListadoDepartamento> getPersonaConListadoDepartamento()
+        {
+           
+            var listaPersonas = _repositorioPersonas.getListaPersonas();
+            var listaDepartamentos = _repositorioDepartamentos.getListaDepartamentos();
+            var listaConListado = new List<PersonaConListadoDepartamento>();
+            foreach (var persona in listaPersonas)
+            {
+                listaConListado.Add(new PersonaConListadoDepartamento(persona, listaDepartamentos));
+            }
+            return listaConListado;
+        }
+    } 
 }

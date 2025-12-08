@@ -17,5 +17,7 @@ namespace Domain.Interfaces.Repositories
         public int actualizarPersona(int idPersona, Persona persona);
 
         public int eliminarPersona(int idPersona);
+        Persona getPersonaById(int idPersona);
+        IEnumerable<Departamento> getListaDepartamento();
     }
 }

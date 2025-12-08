@@ -17,5 +17,7 @@ namespace Domain.Interfaces.UseCase
         public int crearPersona(Persona personaNueva);
         public int actualizarPersona(int idPersona, Persona personaActualizada);
         public int eliminarPersona(int idPersona);
+        PersonaConNombreDepartamento getPersonaConNombreDepartamento();
+        List<PersonaConListadoDepartamento> getPersonaConListadoDepartamento();
     }
 }

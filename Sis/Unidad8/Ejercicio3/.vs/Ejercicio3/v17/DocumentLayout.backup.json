@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -187,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Home\\Index.cshtml",
@@ -206,7 +206,7 @@
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Edit.cshtml",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Edit.cshtml",
               "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Edit.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAhwEcAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAtwFoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-02T11:42:49.316Z",
               "EditorCaption": ""
@@ -226,13 +226,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Create.cshtml",
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Create.cshtml",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Create.cshtml",
               "RelativeToolTip": "Ejercicio3\\Views\\Persona\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-02T11:42:16.788Z",
               "EditorCaption": ""
@@ -252,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Views\\Persona\\Delete.cshtml",
               "RelativeDocumentMoniker": "Ejercicio3\\Views\\Persona\\Delete.cshtml",

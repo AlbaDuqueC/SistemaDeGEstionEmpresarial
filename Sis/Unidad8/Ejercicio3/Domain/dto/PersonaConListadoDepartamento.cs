@@ -10,6 +10,8 @@ namespace Domain.dto
 {
     public class PersonaConListadoDepartamento
     {
+        private List<Departamento> departamentos;
+
         public Persona Persona { get; private set; }
         public List<Departamento> ListadoDepartamento { get; private set; }
 
@@ -17,6 +19,12 @@ namespace Domain.dto
         {
             Persona = persona;
             ListadoDepartamento = repoDepartamentos.getListaDepartamentos();
+        }
+
+        public PersonaConListadoDepartamento(Persona persona, List<Departamento> departamentos)
+        {
+            Persona = persona;
+            this.departamentos = departamentos;
         }
     }
 }
