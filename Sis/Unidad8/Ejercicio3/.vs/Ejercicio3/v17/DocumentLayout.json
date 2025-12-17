@@ -214,8 +214,7 @@
               "RelativeToolTip": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
               "ViewState": "AgIAALUAAAAAAAAAAAAYwMAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:53:55.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:53:55.477Z"
             },
             {
               "$type": "Document",
@@ -263,8 +262,7 @@
               "RelativeToolTip": "Domain\\Entities\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:33:26.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T13:33:26.143Z"
             },
             {
               "$type": "Document",
@@ -274,7 +272,7 @@
               "RelativeDocumentMoniker": "Domain\\Entities\\Departamento.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Departamento.cs",
               "RelativeToolTip": "Domain\\Entities\\Departamento.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T13:33:07.993Z",
               "EditorCaption": ""
