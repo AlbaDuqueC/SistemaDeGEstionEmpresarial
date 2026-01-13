@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\ejercicio3\\controllers\\api\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8F0C23E-2F68-4D4B-B0CC-017B28E22594}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\api\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\usecase\\departamentorepositoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA295B59-757A-4B25-AAAA-4C8DB6FB1180}|Data\\Data.csproj|solutionrelative:data\\repositories\\repositoriospersona\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84984412-86F7-4063-A9CB-AE056A2A4333}|Domain\\Domain.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio3\\domain\\dto\\personaconlistadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,11 +178,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PersonaRepositoryAzure.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
@@ -190,8 +190,7 @@
               "RelativeToolTip": "Data\\Repositories\\repositoriospersona\\PersonaRepositoryAzure.cs",
               "ViewState": "AgIAAM8AAAAAAAAAAAAkwMAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T12:53:55.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T12:53:55.477Z"
             },
             {
               "$type": "Document",
@@ -207,19 +206,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Persona.cs",
               "RelativeToolTip": "Domain\\Entities\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwFkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:33:26.143Z"
+              "WhenOpened": "2025-11-19T13:33:26.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Entities\\Departamento.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Departamento.cs",
@@ -227,38 +227,37 @@
               "RelativeToolTip": "Domain\\Entities\\Departamento.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:33:07.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T13:33:07.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DepartamentoController.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
               "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
               "RelativeToolTip": "Ejercicio3\\Controllers\\API\\DepartamentoController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwEAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T13:32:31.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IDepartamentoRepository.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
               "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T10:58:04.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DepartamentoRepositoryUseCase.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
               "RelativeDocumentMoniker": "Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
@@ -266,12 +265,11 @@
               "RelativeToolTip": "Domain\\UseCase\\DepartamentoRepositoryUseCase.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwCQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:16:02.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T13:16:02.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PersonaRepositoryUseCase.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio3\\Domain\\UseCase\\PersonaRepositoryUseCase.cs",
               "RelativeDocumentMoniker": "Domain\\UseCase\\PersonaRepositoryUseCase.cs",
@@ -279,8 +277,7 @@
               "RelativeToolTip": "Domain\\UseCase\\PersonaRepositoryUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:15:24.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T13:15:24.754Z"
             },
             {
               "$type": "Document",

@@ -123,4 +123,3 @@ public class Persona
     // Propiedad de navegación
     public virtual Departamento Departamento { get; set; }
 }
-}
