@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio1\\ejercicio1\\wwwroot\\js\\clsmensajeusuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|solutionrelative:ejercicio1\\wwwroot\\js\\clsmensajeusuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio1\\ejercicio1\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|solutionrelative:ejercicio1\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio1\\ejercicio1\\hubs\\chathubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|solutionrelative:ejercicio1\\hubs\\chathubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio1\\ejercicio1\\hubs\\clsmensajeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|solutionrelative:ejercicio1\\hubs\\clsmensajeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio1\\ejercicio1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio1\\ejercicio1\\hubs\\chathubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|solutionrelative:ejercicio1\\hubs\\chathubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{982E3283-2A49-4D67-8ED4-E289586B3E6E}|Ejercicio1\\SignalRChat.csproj|c:\\users\\alba.duque\\desktop\\sistemadegestionempresarial\\sis\\unidad8\\ejercicio1\\ejercicio1\\signalrchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "chat.js",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\wwwroot\\js\\chat.js",
               "RelativeDocumentMoniker": "Ejercicio1\\wwwroot\\js\\chat.js",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\wwwroot\\js\\chat.js",
               "RelativeToolTip": "Ejercicio1\\wwwroot\\js\\chat.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-01-15T12:23:35.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejercicio1\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Pages\\Index.cshtml",
               "RelativeToolTip": "Ejercicio1\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-15T12:20:39.135Z",
               "EditorCaption": ""
@@ -61,32 +69,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Program.cs",
-              "RelativeToolTip": "Ejercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T12:20:13.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ChatHubs.cs",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Hubs\\ChatHubs.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Hubs\\ChatHubs.cs",
               "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Hubs\\ChatHubs.cs",
               "RelativeToolTip": "Ejercicio1\\Hubs\\ChatHubs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T12:19:06.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "clsMensajeUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Hubs\\clsMensajeUsuario.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Hubs\\clsMensajeUsuario.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Hubs\\clsMensajeUsuario.cs",
+              "RelativeToolTip": "Ejercicio1\\Hubs\\clsMensajeUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:16:23.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMensajeUsuario.js",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\wwwroot\\js\\clsMensajeUsuario.js",
+              "RelativeDocumentMoniker": "Ejercicio1\\wwwroot\\js\\clsMensajeUsuario.js",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\wwwroot\\js\\clsMensajeUsuario.js",
+              "RelativeToolTip": "Ejercicio1\\wwwroot\\js\\clsMensajeUsuario.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-20T12:27:21.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:20:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SignalRChat.csproj",
               "DocumentMoniker": "C:\\Users\\alba.duque\\Desktop\\SistemaDeGEstionEmpresarial\\Sis\\Unidad8\\Ejercicio1\\Ejercicio1\\SignalRChat.csproj",
               "RelativeDocumentMoniker": "Ejercicio1\\SignalRChat.csproj",
@@ -94,8 +128,7 @@
               "RelativeToolTip": "Ejercicio1\\SignalRChat.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-15T12:14:10.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T12:14:10.937Z"
             }
           ]
         }
