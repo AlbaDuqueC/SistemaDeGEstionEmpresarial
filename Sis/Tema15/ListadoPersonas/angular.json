@@ -2,12 +2,11 @@
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
   "cli": {
-    "packageManager": "npm",
-    "analytics": "f01d775c-d5dc-44c5-ad86-cc9521eb01a3"
+    "packageManager": "npm"
   },
   "newProjectRoot": "projects",
   "projects": {
-    "holaMundoAngular": {
+    "ListadoPersonas": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -26,7 +25,6 @@
               }
             ],
             "styles": [
-              
               "src/styles.css"
             ]
           },
@@ -58,10 +56,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "holaMundoAngular:build:production"
+              "buildTarget": "ListadoPersonas:build:production"
             },
             "development": {
-              "buildTarget": "holaMundoAngular:build:development"
+              "buildTarget": "ListadoPersonas:build:development"
             }
           },
           "defaultConfiguration": "development"

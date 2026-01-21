@@ -1,0 +1,42 @@
+
+<div class="calendario-container">
+  <div class="calendario-header">
+    <button (click)="mesAnterior()" class="btn-nav">◀</button>
+    <h2>{{ nombreMes }} {{ anioActual }}</h2>
+    <button (click)="mesSiguiente()" class="btn-nav">▶</button>
+  </div>
+
+  <div class="calendario-grid">
+    <!-- Días de la semana -->
+    <div class="dia-semana" *ngFor="let dia of diasSemana">{{ dia }}</div>
+
+    <!-- Días del mes anterior (grises) -->
+    <div 
+      class="dia dia-otro-mes" 
+      *ngFor="let dia of diasMesAnterior">
+      {{ dia }}
+    </div>
+
+    <!-- Días del mes actual -->
+    <div 
+      class="dia"
+      *ngFor="let dia of diasMesActual"
+      [class.hoy]="esHoy(dia)"
+      [class.seleccionado]="esSeleccionado(dia)"
+      (click)="seleccionarDia(dia)">
+      {{ dia }}
+    </div>
+
+    <!-- Días del mes siguiente (grises) -->
+    <div 
+      class="dia dia-otro-mes" 
+      *ngFor="let dia of diasMesSiguiente">
+      {{ dia }}
+    </div>
+  </div>
+
+  <div class="fecha-seleccionada" *ngIf="diaSeleccionado">
+    <strong>Fecha seleccionada:</strong> 
+    {{ diaSeleccionado }}/{{ mesActual + 1 }}/{{ anioActual }}
+  </div>
+</div>
