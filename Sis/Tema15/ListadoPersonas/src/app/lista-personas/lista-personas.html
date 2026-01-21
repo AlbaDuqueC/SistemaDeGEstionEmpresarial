@@ -1,0 +1,33 @@
+<div *mobxAutorun class="container">
+  
+  <h2>Directorio de Personas</h2>
+
+  <div class="people-grid">
+    <div 
+      class="person-card" 
+      *ngFor="let persona of vm.personasList"
+      (click)="vm.personaSeleccionada = persona"
+      [class.selected]="vm.personaSeleccionada?.id === persona.id"
+    >
+      <img [src]="persona.foto" [alt]="persona.nombre" class="avatar">
+      
+      <div class="info">
+        <h3>{{ persona.nombre }} {{ persona.apellido }}</h3>
+        <p>📞 {{ persona.telefono }}</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="detail-panel" *ngIf="vm.personaSeleccionada">
+    <h3>Detalle Seleccionado</h3>
+    <div class="detail-content">
+      <img [src]="vm.personaSeleccionada.foto" class="avatar-large">
+      <ul>
+        <li><strong>Nombre:</strong> {{ vm.personaSeleccionada.nombre }}</li>
+        <li><strong>Dirección:</strong> {{ vm.personaSeleccionada.direccion }}</li>
+        <li><strong>Fecha Nacimiento:</strong> {{ vm.personaSeleccionada.fechaNacimiento | date:'dd/MM/yyyy' }}</li>
+      </ul>
+    </div>
+  </div>
+
+</div>

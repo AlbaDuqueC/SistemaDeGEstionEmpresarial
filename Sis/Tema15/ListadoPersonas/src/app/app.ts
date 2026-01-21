@@ -1,12 +1,27 @@
-import { Component, signal } from '@angular/core';
+import { Component } from '@angular/core';
+import { CommonModule } from '@angular/common'; // Para *ngIf, *ngFor, date pipe
 import { RouterOutlet } from '@angular/router';
+import { MobxAngularModule } from 'mobx-angular'; // IMPORTANTE para la reactividad
+import { PeopleListVM } from './people-list.vm'; // Tu ViewModel
+import { container } from '../inversify.config'; // Tu contenedor configurado
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  standalone: true,
+  // Importamos CommonModule para las directivas básicas y MobxAngularModule para conectar la vista
+  imports: [CommonModule, RouterOutlet, MobxAngularModule], 
   templateUrl: './app.html',
-  styleUrl: './app.css'
+  styleUrls: ['./app.css']
 })
 export class App {
-  protected readonly title = signal('ListadoPersonas');
+  
+  // Exponemos el VM a la vista
+  public vm: PeopleListVM;
+
+  constructor() {
+    // INYECCIÓN:
+    // Como tu VM tiene dependencias de Inversify (@inject), Angular no puede instanciarlo solo.
+    // Usamos el contenedor para resolver el VM y todas sus dependencias internas (Repositorios).
+    this.vm = container.resolve(PeopleListVM);
+  }
 }
