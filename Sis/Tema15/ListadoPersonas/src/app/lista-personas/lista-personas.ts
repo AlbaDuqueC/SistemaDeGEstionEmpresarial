@@ -6,12 +6,12 @@ import { container } from '../../core/Container';
 
 @Component({
   selector: 'app-people-list',
-  templateUrl: './people-list.component.html',
+  templateUrl: './people-list.html',
   styleUrls: ['./people-list.component.scss'],
   // Usamos OnPush para rendimiento, delegando la detección de cambios a MobX
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class PeopleListComponent implements OnInit {
+export class ListaPersonas implements OnInit {
   
   public vm: PeopleListVM;
 

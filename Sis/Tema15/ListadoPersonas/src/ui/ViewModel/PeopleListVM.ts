@@ -10,7 +10,7 @@ import {  makeAutoObservable } from "mobx";
 export class PeopleListVM {
 
 
-    private _personasList: Persona[] = [];
+    private _personasList:Promise<Persona[]>;
     private _personaSeleccionada: Persona;
    
 
@@ -31,7 +31,7 @@ export class PeopleListVM {
 
 
 
-    public get personasList(): Persona[] {
+    public get personasList(): Promise<Persona[]> {
         return this._personasList;
     }
 
